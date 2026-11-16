@@ -1,0 +1,27 @@
+   [G] round 0: expanded=39 E=38 items=54 count=91/91
+n=91: generic ok, count 91/91; special candidates: 24
+   [p=29] round 0: expanded=41 E=38 items=54 count=92/91
+   [p=4733] round 0: expanded=41 E=38 items=52 count=91/91
+   [p=70001] round 0: expanded=40 E=37 items=54 count=91/91
+   [p=1093] round 0: expanded=40 E=39 items=53 count=93/91
+   [p=3389] round 0: expanded=41 E=38 items=53 count=91/91
+   [p=4621] round 0: expanded=39 E=38 items=53 count=91/91
+   [p=197] round 0: expanded=40 E=37 items=55 count=92/91
+   [p=281] round 0: expanded=42 E=39 items=48 count=92/91
+   [p=617] round 0: expanded=41 E=38 items=54 count=92/91
+   [p=15737] round 0: expanded=42 E=39 items=49 count=92/91
+   [p=113] round 0: expanded=42 E=39 items=52 count=92/91
+   [p=2381] round 0: expanded=41 E=38 items=52 count=91/91
+   [p=2689] round 0: expanded=40 E=37 items=55 count=92/91
+   [p=449] round 0: expanded=42 E=39 items=53 count=92/91
+   [p=2969] round 0: expanded=40 E=36 items=55 count=91/91
+   [p=3613] round 0: expanded=41 E=38 items=53 count=91/91
+   [p=953] round 0: expanded=41 E=38 items=53 count=91/91
+   [p=1009] round 0: expanded=41 E=38 items=54 count=92/91
+   [p=40237] round 0: expanded=38 E=34 items=58 count=92/91
+   [p=2857] round 0: expanded=40 E=39 items=52 count=91/91
+   [p=30941] round 0: expanded=40 E=37 items=54 count=91/91
+   [p=72101] round 0: expanded=40 E=37 items=54 count=91/91
+   [p=72997] round 0: expanded=41 E=38 items=54 count=92/91
+   [p=86353] round 0: expanded=39 E=38 items=54 count=93/91
+n=91: ALL SCENARIOS CLOSED (25 scenarios, 20s) -> theory/certs/cert_n91.json

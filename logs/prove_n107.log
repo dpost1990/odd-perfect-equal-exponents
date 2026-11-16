@@ -1,0 +1,25 @@
+   [G] round 0: expanded=35 E=34 items=42 count=107/107
+n=107: generic ok, count 107/107; special candidates: 18
+   [p=137122213] round 0: expanded=34 E=33 items=43 count=107/107
+   [p=2141] round 0: expanded=35 E=31 items=44 count=107/107
+   [p=146001929] round 0: expanded=35 E=30 items=46 count=107/107
+   [p=6421] round 0: expanded=12 E=9 items=12 count=32/107
+     ecm cof of 13 (115 digits): primes [3286126349184953, 1842708018885404721657218228344276394838382971121554990878798778219059086476647798269311913985066291] leftover digits []
+   [p=6421] round 1: expanded=35 E=32 items=45 count=108/107
+   [p=857] round 0: expanded=35 E=31 items=46 count=107/107
+   [p=14009297] round 0: expanded=35 E=31 items=44 count=107/107
+   [p=16437769] round 0: expanded=33 E=29 items=48 count=107/107
+   [p=12841] round 0: expanded=31 E=30 items=31 count=91/107
+     ecm cof of 107 (207 digits): primes [10508824813] leftover digits [197]
+   [p=12841] round 1: expanded=36 E=35 items=42 count=111/107
+   [p=3335833] round 0: expanded=36 E=35 items=38 count=108/107
+   [p=30817] round 0: expanded=37 E=34 items=38 count=107/107
+   [p=171629] round 0: expanded=34 E=30 items=48 count=108/107
+   [p=32957] round 0: expanded=36 E=33 items=44 count=109/107
+   [p=97157] round 0: expanded=34 E=31 items=46 count=107/107
+   [p=314581] round 0: expanded=35 E=34 items=43 count=109/107
+   [p=1406837] round 0: expanded=34 E=31 items=46 count=107/107
+   [p=6357941] round 0: expanded=35 E=31 items=46 count=108/107
+   [p=87313] round 0: expanded=36 E=33 items=44 count=110/107
+   [p=59249753] round 0: expanded=35 E=32 items=46 count=108/107
+n=107: ALL SCENARIOS CLOSED (19 scenarios, 75s) -> theory/certs/cert_n107.json

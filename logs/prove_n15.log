@@ -1,0 +1,10 @@
+   [G] round 0: expanded=12 E=11 items=5 count=15/15
+n=15: generic ok, count 15/15; special candidates: 7
+   [p=13] round 0: expanded=12 E=11 items=4 count=15/15
+   [p=61] round 0: expanded=12 E=11 items=4 count=15/15
+   [p=97] round 0: expanded=12 E=11 items=4 count=15/15
+   [p=3169] round 0: expanded=14 E=11 items=4 count=15/15
+   [p=3348577] round 0: expanded=12 E=11 items=4 count=15/15
+   [p=3737657091169] round 0: expanded=13 E=10 items=5 count=15/15
+   [p=181] round 0: expanded=13 E=12 items=4 count=16/15
+n=15: ALL SCENARIOS CLOSED (8 scenarios, 0s) -> theory/certs/cert_n15.json

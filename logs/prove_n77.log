@@ -1,0 +1,22 @@
+   [G] round 0: expanded=34 E=33 items=47 count=79/77
+n=77: generic ok, count 79/77; special candidates: 19
+   [p=29] round 0: expanded=34 E=31 items=46 count=77/77
+   [p=4733] round 0: expanded=36 E=33 items=45 count=79/77
+   [p=70001] round 0: expanded=34 E=31 items=47 count=78/77
+   [p=1093] round 0: expanded=33 E=32 items=47 count=79/77
+   [p=3389] round 0: expanded=35 E=32 items=46 count=78/77
+   [p=4621] round 0: expanded=34 E=33 items=46 count=79/77
+   [p=197] round 0: expanded=34 E=31 items=46 count=77/77
+   [p=281] round 0: expanded=36 E=33 items=42 count=78/77
+   [p=617] round 0: expanded=35 E=32 items=46 count=78/77
+   [p=15737] round 0: expanded=36 E=33 items=41 count=77/77
+   [p=113] round 0: expanded=35 E=32 items=46 count=78/77
+   [p=2381] round 0: expanded=35 E=32 items=46 count=78/77
+   [p=2689] round 0: expanded=33 E=30 items=47 count=77/77
+   [p=449] round 0: expanded=35 E=32 items=46 count=78/77
+   [p=2969] round 0: expanded=36 E=32 items=47 count=79/77
+   [p=3613] round 0: expanded=34 E=31 items=46 count=77/77
+   [p=953] round 0: expanded=35 E=32 items=47 count=79/77
+   [p=1009] round 0: expanded=34 E=31 items=46 count=77/77
+   [p=40237] round 0: expanded=33 E=29 items=51 count=80/77
+n=77: ALL SCENARIOS CLOSED (20 scenarios, 78s) -> theory/certs/cert_n77.json

@@ -1,0 +1,9 @@
+   [G] round 0: expanded=17 E=16 items=17 count=47/47
+n=47: generic ok, count 47/47; special candidates: 4
+   [p=1693] round 0: expanded=5 E=2 items=5 count=12/47
+     ecm cof of 7 (39 digits): primes [13722816749522711, 63681511996418550459487] leftover digits []
+   [p=1693] round 1: expanded=15 E=12 items=22 count=47/47
+   [p=941] round 0: expanded=16 E=13 items=21 count=48/47
+   [p=5077] round 0: expanded=15 E=14 items=22 count=49/47
+   [p=8273] round 0: expanded=17 E=13 items=22 count=47/47
+n=47: ALL SCENARIOS CLOSED (5 scenarios, 17s) -> theory/certs/cert_n47.json

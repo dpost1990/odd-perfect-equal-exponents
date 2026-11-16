@@ -1,0 +1,21 @@
+   [G] round 0: expanded=2 E=1 items=2 count=4/71
+     ecm cof of 71 (125 digits): primes [3388409395214741, 17882954877203881, 613683109618829730126963701125307210322365580597593081378705115087489446138913203546134827149] leftover digits []
+   [G] round 1: expanded=24 E=23 items=30 count=75/71
+n=71: generic ok, count 75/71; special candidates: 16
+   [p=105649] round 0: expanded=25 E=22 items=28 count=72/71
+   [p=3388409395214741] round 0: expanded=25 E=21 items=30 count=73/71
+   [p=3602257] round 0: expanded=24 E=20 items=29 count=71/71
+   [p=4997549] round 0: expanded=25 E=21 items=29 count=72/71
+   [p=853] round 0: expanded=24 E=21 items=29 count=72/71
+   [p=40897] round 0: expanded=24 E=21 items=29 count=71/71
+   [p=1017857] round 0: expanded=25 E=21 items=30 count=72/71
+   [p=569] round 0: expanded=26 E=22 items=28 count=72/71
+   [p=9941] round 0: expanded=24 E=21 items=28 count=71/71
+   [p=121260901] round 0: expanded=24 E=20 items=29 count=71/71
+   [p=17882954877203881] round 0: expanded=25 E=21 items=27 count=72/71
+   [p=243673] round 0: expanded=25 E=22 items=28 count=73/71
+   [p=75146969] round 0: expanded=26 E=21 items=28 count=71/71
+   [p=6733357] round 0: expanded=24 E=23 items=27 count=73/71
+   [p=17609] round 0: expanded=25 E=21 items=29 count=71/71
+   [p=888637] round 0: expanded=24 E=21 items=30 count=73/71
+n=71: ALL SCENARIOS CLOSED (17 scenarios, 47s) -> theory/certs/cert_n71.json

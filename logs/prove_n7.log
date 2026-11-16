@@ -1,0 +1,6 @@
+   [G] round 0: expanded=4 E=3 items=7 count=9/7
+n=7: generic ok, count 9/7; special candidates: 3
+   [p=29] round 0: expanded=3 E=2 items=6 count=8/7
+   [p=4733] round 0: expanded=3 E=2 items=5 count=7/7
+   [p=70001] round 0: expanded=4 E=3 items=4 count=8/7
+n=7: ALL SCENARIOS CLOSED (4 scenarios, 9s) -> theory/certs/cert_n7.json

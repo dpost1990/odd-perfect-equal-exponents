@@ -1,0 +1,6 @@
+   [G] round 0: expanded=5 E=4 items=8 count=12/11
+n=11: generic ok, count 12/11; special candidates: 1
+   [p=15797] round 0: expanded=3 E=2 items=2 count=6/11
+     ecm cof of 199 (22 digits): primes [75449464927, 117942356533] leftover digits []
+   [p=15797] round 1: expanded=4 E=3 items=6 count=11/11
+n=11: ALL SCENARIOS CLOSED (2 scenarios, 8s) -> theory/certs/cert_n11.json

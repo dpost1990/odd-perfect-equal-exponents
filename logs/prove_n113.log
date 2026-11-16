@@ -1,0 +1,22 @@
+   [G] round 0: expanded=24 E=23 items=24 count=70/113
+     ecm cof of 113 (221 digits): primes [34314816732569] leftover digits [207]
+   [G] round 1: expanded=25 E=24 items=25 count=72/113
+     ecm cof of 113 (207 digits): primes [] leftover digits [207]
+     ecm cof of 227 (259 digits): primes [11320827031, 10505054937673, 451396256960347, 4810045111754322943] leftover digits [202]
+   [G] round 2: expanded=37 E=36 items=43 count=115/113
+n=113: generic ok, count 115/113; special candidates: 14
+   [p=38873] round 0: expanded=36 E=31 items=48 count=113/113
+   [p=2713] round 0: expanded=37 E=34 items=42 count=113/113
+   [p=4973] round 0: expanded=38 E=35 items=43 count=114/113
+   [p=9041] round 0: expanded=38 E=34 items=44 count=115/113
+   [p=429853] round 0: expanded=37 E=34 items=42 count=113/113
+   [p=52370077] round 0: expanded=36 E=35 items=42 count=113/113
+   [p=3733973] round 0: expanded=38 E=35 items=43 count=114/113
+   [p=747157] round 0: expanded=36 E=33 items=46 count=115/113
+   [p=3617] round 0: expanded=37 E=34 items=43 count=113/113
+   [p=13109] round 0: expanded=36 E=31 items=50 count=115/113
+   [p=84977] round 0: expanded=37 E=34 items=44 count=114/113
+   [p=2477413] round 0: expanded=37 E=34 items=43 count=114/113
+   [p=11387237] round 0: expanded=38 E=34 items=45 count=116/113
+   [p=12432713] round 0: expanded=38 E=34 items=46 count=116/113
+n=113: ALL SCENARIOS CLOSED (15 scenarios, 60s) -> theory/certs/cert_n113.json

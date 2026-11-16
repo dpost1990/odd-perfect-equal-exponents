@@ -1,0 +1,19 @@
+   [G] round 0: expanded=34 E=33 items=40 count=104/103
+n=103: generic ok, count 104/103; special candidates: 14
+   [p=1237] round 0: expanded=3 E=2 items=3 count=8/103
+     ecm cof of 103 (203 digits): primes [16706917226363953216841] leftover digits [180]
+   [p=1237] round 1: expanded=34 E=33 items=38 count=103/103
+   [p=16069] round 0: expanded=34 E=31 items=41 count=105/103
+   [p=224129] round 0: expanded=36 E=31 items=40 count=105/103
+   [p=24513589] round 0: expanded=34 E=31 items=41 count=103/103
+   [p=31994273] round 0: expanded=34 E=29 items=42 count=103/103
+   [p=10301] round 0: expanded=36 E=32 items=37 count=103/103
+   [p=2473] round 0: expanded=34 E=33 items=40 count=105/103
+   [p=420241] round 0: expanded=35 E=32 items=38 count=104/103
+   [p=39306037] round 0: expanded=33 E=32 items=39 count=103/103
+   [p=66738233] round 0: expanded=35 E=32 items=41 count=105/103
+   [p=173093149] round 0: expanded=33 E=28 items=45 count=104/103
+   [p=3709] round 0: expanded=35 E=31 items=42 count=105/103
+   [p=7829] round 0: expanded=33 E=29 items=43 count=103/103
+   [p=138433] round 0: expanded=34 E=31 items=42 count=105/103
+n=103: ALL SCENARIOS CLOSED (15 scenarios, 60s) -> theory/certs/cert_n103.json

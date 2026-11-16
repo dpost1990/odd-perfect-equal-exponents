@@ -1,0 +1,20 @@
+   [G] round 0: expanded=3 E=2 items=3 count=7/61
+     ecm cof of 61 (105 digits): primes [343625872243632312073] leftover digits [84]
+   [G] round 1: expanded=10 E=9 items=10 count=27/61
+     ecm cof of 61 (84 digits): primes [] leftover digits [84]
+     ecm cof of 733 (171 digits): primes [15927101073479, 8305481227154939809308481491527985203030113464717218211249947411837692211182285308554156939960200602996570172281248823560867409468357420034667387168266873679] leftover digits []
+   [G] round 2: expanded=21 E=20 items=25 count=62/61
+n=61: generic ok, count 62/61; special candidates: 12
+   [p=977] round 0: expanded=20 E=17 items=27 count=61/61
+   [p=836189] round 0: expanded=19 E=14 items=31 count=61/61
+   [p=343625872243632312073] round 0: expanded=19 E=16 items=28 count=61/61
+   [p=733] round 0: expanded=20 E=19 items=25 count=62/61
+   [p=4637] round 0: expanded=19 E=16 items=30 count=61/61
+   [p=23246369] round 0: expanded=18 E=13 items=36 count=63/61
+   [p=414313] round 0: expanded=22 E=19 items=26 count=63/61
+   [p=64661] round 0: expanded=19 E=15 items=30 count=62/61
+   [p=2441] round 0: expanded=19 E=15 items=31 count=63/61
+   [p=115657] round 0: expanded=19 E=18 items=27 count=61/61
+   [p=42701] round 0: expanded=19 E=15 items=30 count=61/61
+   [p=879133] round 0: expanded=19 E=18 items=26 count=61/61
+n=61: ALL SCENARIOS CLOSED (13 scenarios, 42s) -> theory/certs/cert_n61.json

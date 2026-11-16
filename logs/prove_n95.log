@@ -1,0 +1,20 @@
+   [G] round 0: expanded=31 E=30 items=46 count=97/95
+n=95: generic ok, count 97/95; special candidates: 17
+   [p=109912203092239643840221] round 0: expanded=33 E=31 items=44 count=97/95
+   [p=682621057] round 0: expanded=35 E=31 items=43 count=96/95
+   [p=1124041] round 0: expanded=32 E=31 items=43 count=97/95
+   [p=7069] round 0: expanded=36 E=32 items=40 count=95/95
+   [p=827360473] round 0: expanded=34 E=31 items=41 count=95/95
+   [p=1277351533] round 0: expanded=31 E=28 items=44 count=95/95
+   [p=2129] round 0: expanded=33 E=29 items=46 count=96/95
+   [p=457] round 0: expanded=32 E=31 items=42 count=97/95
+   [p=229] round 0: expanded=32 E=29 items=46 count=95/95
+   [p=4637] round 0: expanded=31 E=28 items=46 count=95/95
+   [p=22573] round 0: expanded=31 E=30 items=45 count=96/95
+   [p=54493] round 0: expanded=35 E=32 items=39 count=95/95
+   [p=3041] round 0: expanded=32 E=29 items=47 count=96/95
+   [p=244493] round 0: expanded=32 E=28 items=48 count=96/95
+   [p=251941] round 0: expanded=31 E=28 items=48 count=95/95
+   [p=4409] round 0: expanded=32 E=28 items=48 count=95/95
+   [p=258173] round 0: expanded=32 E=28 items=48 count=96/95
+n=95: ALL SCENARIOS CLOSED (18 scenarios, 74s) -> theory/certs/cert_n95.json

@@ -1,0 +1,49 @@
+   [G] round 0: expanded=51 E=50 items=51 count=150/193
+     ecm[L0] cof of 193 (420 digits): primes [2871824561] leftover digits [410]
+   [G] round 1: expanded=58 E=57 items=58 count=171/193
+     ecm[L0] cof of 193 (410 digits): primes [] leftover digits [410]
+     ecm[L0] cof of 773 (543 digits): primes [226136350364677, 1268917362686925319502571505869096257458546820743109137786103273053107044385251417391828861053828842938819850430104682546106324625941199018176394966689325036080256334562887635367548329811802198111348701661396022174285418566283431976220275906774674329608727031663548102145682006737698936575771542294617896896862077489579282035172051181612110454561400093548804795815969789377960157075491585323851720077413752204495443403794749713692603354020231515088148113870220266196174641401806260480229210020375888470784380020585255407202104399] leftover digits []
+   [G] round 2: expanded=61 E=60 items=61 count=179/193
+     ecm[L0] cof of 1931 (625 digits): primes [] leftover digits [625]
+     ecm[L0] cof of 3089 (668 digits): primes [] leftover digits [668]
+     ecm[L0] cof of 6563 (731 digits): primes [349123746691] leftover digits [720]
+   [G] round 3: expanded=65 E=64 items=68 count=194/193
+n=193: generic ok, count 194/193; special candidates: 35
+   [p=773] round 0: expanded=65 E=62 items=67 count=193/193
+   [p=6949] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=148997] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=3176009] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=245925233] round 0: expanded=65 E=62 items=70 count=195/193
+   [p=6792829] round 0: expanded=66 E=61 items=69 count=193/193
+   [p=113382869] round 0: expanded=66 E=60 items=70 count=194/193
+   [p=3089] round 0: expanded=66 E=62 items=68 count=194/193
+   [p=57901] round 0: expanded=64 E=60 items=74 count=196/193
+   [p=370561] round 0: expanded=66 E=63 items=67 count=194/193
+   [p=2674981] round 0: expanded=65 E=62 items=69 count=194/193
+   [p=21617] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=17113697] round 0: expanded=66 E=61 items=69 count=194/193
+   [p=403757] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=20638649] round 0: expanded=66 E=61 items=68 count=193/193
+   [p=10144853] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=39373] round 0: expanded=64 E=63 items=70 count=195/193
+   [p=1690681] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=10037] round 0: expanded=66 E=62 items=68 count=194/193
+   [p=416914741] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=432928337] round 0: expanded=65 E=60 items=65 count=188/193
+     ecm[L0] cof of 3 (84 digits): primes [2346066378779] leftover digits [72]
+   [p=432928337] round 1: expanded=66 E=61 items=68 count=193/193
+   [p=107309] round 0: expanded=66 E=61 items=70 count=195/193
+   [p=860009] round 0: expanded=66 E=61 items=69 count=194/193
+   [p=30109] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=372877] round 0: expanded=66 E=62 items=69 count=194/193
+   [p=37057] round 0: expanded=65 E=62 items=69 count=194/193
+   [p=187609897] round 0: expanded=65 E=62 items=68 count=193/193
+   [p=267328933] round 0: expanded=66 E=63 items=69 count=196/193
+   [p=2871824561] round 0: expanded=65 E=61 items=70 count=194/193
+   [p=25935341] round 0: expanded=66 E=61 items=70 count=195/193
+   [p=373649] round 0: expanded=66 E=61 items=71 count=196/193
+   [p=26249] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=172157] round 0: expanded=65 E=61 items=69 count=193/193
+   [p=85516757] round 0: expanded=66 E=62 items=68 count=194/193
+   [p=2149249] round 0: expanded=65 E=62 items=69 count=194/193
+n=193: ALL SCENARIOS CLOSED (36 scenarios, 961s) -> theory/certs/cert_n193.json

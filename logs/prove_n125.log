@@ -1,0 +1,14 @@
+   [G] round 0: expanded=24 E=23 items=21 count=43/42
+n=125: generic ok, count 43/42; special candidates: 11
+   [p=1361] round 0: expanded=24 E=21 items=23 count=44/42
+   [p=2221] round 0: expanded=21 E=20 items=22 count=42/42
+   [p=3221] round 0: expanded=25 E=22 items=21 count=43/42
+   [p=61] round 0: expanded=22 E=21 items=21 count=42/42
+   [p=271241] round 0: expanded=24 E=21 items=22 count=43/42
+   [p=1021] round 0: expanded=24 E=21 items=21 count=42/42
+   [p=41] round 0: expanded=24 E=21 items=21 count=42/42
+   [p=12041] round 0: expanded=24 E=21 items=22 count=43/42
+   [p=292661] round 0: expanded=25 E=22 items=19 count=42/42
+   [p=241] round 0: expanded=23 E=22 items=20 count=42/42
+   [p=8741] round 0: expanded=25 E=22 items=21 count=43/42
+n=125: ALL SCENARIOS CLOSED (12 scenarios, 68s) -> theory/certs/cert_n125.json

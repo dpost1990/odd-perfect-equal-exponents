@@ -1,0 +1,14 @@
+   [G] round 0: expanded=17 E=16 items=17 count=49/53
+     ecm cof of 53 (83 digits): primes [16505521259654533] leftover digits [67]
+   [G] round 1: expanded=18 E=17 items=19 count=53/53
+n=53: generic ok, count 53/53; special candidates: 9
+   [p=141829] round 0: expanded=18 E=14 items=22 count=54/53
+   [p=1697] round 0: expanded=16 E=13 items=27 count=55/53
+   [p=6997] round 0: expanded=18 E=17 items=20 count=55/53
+   [p=24593] round 0: expanded=17 E=14 items=23 count=53/53
+   [p=78229] round 0: expanded=18 E=15 items=22 count=55/53
+   [p=2333] round 0: expanded=18 E=15 items=22 count=54/53
+   [p=2168549] round 0: expanded=19 E=14 items=22 count=53/53
+   [p=95401] round 0: expanded=18 E=17 items=19 count=54/53
+   [p=16505521259654533] round 0: expanded=18 E=16 items=20 count=54/53
+n=53: ALL SCENARIOS CLOSED (10 scenarios, 24s) -> theory/certs/cert_n53.json

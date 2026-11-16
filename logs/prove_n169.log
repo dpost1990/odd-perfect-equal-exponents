@@ -1,0 +1,17 @@
+   [G] round 0: expanded=32 E=31 items=37 count=87/85
+n=169: generic ok, count 87/85; special candidates: 14
+   [p=53] round 0: expanded=32 E=30 items=47 count=87/85
+   [p=3297113] round 0: expanded=33 E=29 items=47 count=85/85
+   [p=8346157] round 0: expanded=33 E=32 items=45 count=85/85
+   [p=11681692691969] round 0: expanded=36 E=32 items=44 count=87/85
+   [p=18617] round 0: expanded=35 E=31 items=41 count=85/85
+   [p=313] round 0: expanded=33 E=32 items=43 count=85/85
+   [p=333581] round 0: expanded=33 E=30 items=41 count=86/85
+   [p=19099601] round 0: expanded=32 E=28 items=50 count=86/85
+   [p=10193] round 0: expanded=35 E=32 items=42 count=86/85
+   [p=17500081] round 0: expanded=30 E=27 items=51 count=86/85
+   [p=82889] round 0: expanded=33 E=29 items=38 count=85/85
+   [p=70201] round 0: expanded=31 E=28 items=50 count=85/85
+   [p=81017] round 0: expanded=34 E=30 items=37 count=86/85
+   [p=5419597] round 0: expanded=33 E=29 items=49 count=86/85
+n=169: ALL SCENARIOS CLOSED (15 scenarios, 74s) -> theory/certs/cert_n169.json

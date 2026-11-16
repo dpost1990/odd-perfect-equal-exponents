@@ -1,0 +1,49 @@
+   [G] round 0: expanded=2 E=1 items=2 count=4/179
+     ecm[L0] cof of 618311908211315583991314548081149 (5835 digits): primes [233031084487, 5587809898247] leftover digits [5811]
+   [G] round 1: expanded=17 E=16 items=17 count=49/179
+     ecm[L0] cof of 359 (453 digits): primes [2399158921057] leftover digits [441]
+   [G] round 2: expanded=18 E=17 items=18 count=52/179
+     ecm[L0] cof of 359 (441 digits): primes [] leftover digits [441]
+     ecm[L0] cof of 1433 (555 digits): primes [] leftover digits [555]
+     ecm[L0] cof of 21481 (767 digits): primes [5556690199] leftover digits [757]
+   [G] round 3: expanded=22 E=21 items=22 count=64/179
+     ecm[L0] cof of 14321 (735 digits): primes [] leftover digits [735]
+     ecm[L0] cof of 21481 (757 digits): primes [] leftover digits [757]
+     ecm[L0] cof of 233417 (936 digits): primes [] leftover digits [936]
+     ecm[L0] cof of 322559 (979 digits): primes [123693014971] leftover digits [968]
+   [G] round 4: expanded=59 E=58 items=66 count=180/179
+n=179: generic ok, count 180/179; special candidates: 33
+   [p=618311908211315583991314548081149] round 0: expanded=60 E=54 items=68 count=180/179
+   [p=1433] round 0: expanded=58 E=55 items=69 count=180/179
+   [p=233417] round 0: expanded=58 E=55 items=69 count=180/179
+   [p=21481] round 0: expanded=59 E=56 items=66 count=179/179
+   [p=830561] round 0: expanded=58 E=55 items=69 count=180/179
+   [p=70424329] round 0: expanded=60 E=56 items=67 count=181/179
+   [p=82648597] round 0: expanded=59 E=58 items=64 count=179/179
+   [p=970163533] round 0: expanded=58 E=55 items=69 count=181/179
+   [p=54649417] round 0: expanded=56 E=53 items=72 count=179/179
+   [p=14321] round 0: expanded=59 E=54 items=69 count=180/179
+   [p=18617] round 0: expanded=59 E=55 items=66 count=179/179
+   [p=421009] round 0: expanded=59 E=56 items=66 count=179/179
+   [p=3581] round 0: expanded=58 E=55 items=68 count=180/179
+   [p=4297] round 0: expanded=60 E=57 items=64 count=179/179
+   [p=1000969] round 0: expanded=60 E=56 items=67 count=181/179
+   [p=287117] round 0: expanded=60 E=56 items=65 count=179/179
+   [p=23629] round 0: expanded=59 E=55 items=68 count=180/179
+   [p=199049] round 0: expanded=59 E=55 items=67 count=179/179
+   [p=326497] round 0: expanded=60 E=59 items=64 count=181/179
+   [p=304301] round 0: expanded=58 E=54 items=69 count=179/179
+   [p=420293] round 0: expanded=59 E=55 items=66 count=179/179
+   [p=7877] round 0: expanded=59 E=55 items=69 count=181/179
+   [p=481153] round 0: expanded=59 E=56 items=66 count=180/179
+   [p=349409] round 0: expanded=59 E=54 items=69 count=180/179
+   [p=1625321] round 0: expanded=58 E=54 items=69 count=179/179
+   [p=1767089] round 0: expanded=58 E=52 items=72 count=180/179
+   [p=4615337] round 0: expanded=56 E=50 items=78 count=182/179
+   [p=6739709] round 0: expanded=59 E=54 items=69 count=180/179
+   [p=7390553] round 0: expanded=59 E=55 items=69 count=181/179
+   [p=8097961] round 0: expanded=59 E=56 items=66 count=179/179
+   [p=14939341] round 0: expanded=60 E=56 items=67 count=180/179
+   [p=33370613] round 0: expanded=58 E=54 items=69 count=179/179
+   [p=65073661] round 0: expanded=60 E=57 items=66 count=181/179
+n=179: ALL SCENARIOS CLOSED (34 scenarios, 942s) -> theory/certs/cert_n179.json

@@ -1,0 +1,13 @@
+   [G] round 0: expanded=24 E=23 items=26 count=55/55
+n=55: generic ok, count 55/55; special candidates: 10
+   [p=15797] round 0: expanded=21 E=18 items=32 count=55/55
+   [p=1277] round 0: expanded=27 E=24 items=24 count=56/55
+   [p=18701] round 0: expanded=25 E=22 items=27 count=56/55
+   [p=1806113] round 0: expanded=24 E=20 items=28 count=55/55
+   [p=36751837] round 0: expanded=25 E=22 items=25 count=55/55
+   [p=89] round 0: expanded=27 E=24 items=22 count=56/55
+   [p=33216481] round 0: expanded=23 E=21 items=30 count=55/55
+   [p=116880853] round 0: expanded=22 E=18 items=33 count=55/55
+   [p=16912503169] round 0: expanded=27 E=23 items=23 count=55/55
+   [p=226841033] round 0: expanded=23 E=18 items=34 count=56/55
+n=55: ALL SCENARIOS CLOSED (11 scenarios, 92s) -> theory/certs/cert_n55.json

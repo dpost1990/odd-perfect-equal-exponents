@@ -1,0 +1,15 @@
+   [G] round 0: expanded=27 E=26 items=31 count=63/61
+n=121: generic ok, count 63/61; special candidates: 12
+   [p=15797] round 0: expanded=24 E=21 items=34 count=61/61
+   [p=1277] round 0: expanded=29 E=26 items=28 count=63/61
+   [p=18701] round 0: expanded=27 E=24 items=32 count=63/61
+   [p=1806113] round 0: expanded=27 E=23 items=30 count=62/61
+   [p=36751837] round 0: expanded=27 E=24 items=29 count=62/61
+   [p=89] round 0: expanded=29 E=26 items=26 count=63/61
+   [p=33216481] round 0: expanded=26 E=24 items=34 count=62/61
+   [p=116880853] round 0: expanded=24 E=20 items=37 count=62/61
+   [p=16912503169] round 0: expanded=30 E=26 items=26 count=63/61
+   [p=226841033] round 0: expanded=25 E=20 items=35 count=61/61
+   [p=93941] round 0: expanded=25 E=21 items=36 count=62/61
+   [p=134333] round 0: expanded=26 E=22 items=37 count=61/61
+n=121: ALL SCENARIOS CLOSED (13 scenarios, 19s) -> theory/certs/cert_n121.json

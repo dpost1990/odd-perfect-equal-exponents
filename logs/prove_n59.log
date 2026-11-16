@@ -1,0 +1,13 @@
+   [G] round 0: expanded=18 E=17 items=28 count=59/59
+n=59: generic ok, count 59/59; special candidates: 10
+   [p=709] round 0: expanded=21 E=18 items=23 count=61/59
+   [p=1889] round 0: expanded=19 E=15 items=28 count=59/59
+   [p=3541] round 0: expanded=18 E=14 items=31 count=59/59
+   [p=37997] round 0: expanded=20 E=17 items=26 count=61/59
+   [p=219953] round 0: expanded=19 E=15 items=28 count=59/59
+   [p=11801] round 0: expanded=19 E=15 items=31 count=61/59
+   [p=14869] round 0: expanded=19 E=16 items=29 count=61/59
+   [p=1181] round 0: expanded=19 E=16 items=29 count=61/59
+   [p=821753] round 0: expanded=20 E=16 items=27 count=61/59
+   [p=92041] round 0: expanded=19 E=18 items=25 count=60/59
+n=59: ALL SCENARIOS CLOSED (11 scenarios, 20s) -> theory/certs/cert_n59.json

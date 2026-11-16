@@ -1,0 +1,17 @@
+   [G] round 0: expanded=33 E=32 items=8 count=39/39
+n=39: generic ok, count 39/39; special candidates: 14
+   [p=13] round 0: expanded=34 E=33 items=6 count=39/39
+   [p=61] round 0: expanded=35 E=34 items=6 count=40/39
+   [p=97] round 0: expanded=35 E=34 items=5 count=39/39
+   [p=3169] round 0: expanded=36 E=33 items=6 count=39/39
+   [p=3348577] round 0: expanded=32 E=31 items=8 count=39/39
+   [p=3737657091169] round 0: expanded=33 E=30 items=9 count=39/39
+   [p=181] round 0: expanded=33 E=32 items=7 count=39/39
+   [p=109] round 0: expanded=36 E=33 items=7 count=40/39
+   [p=433] round 0: expanded=34 E=33 items=6 count=39/39
+   [p=37] round 0: expanded=34 E=33 items=6 count=39/39
+   [p=733] round 0: expanded=33 E=32 items=7 count=39/39
+   [p=1093] round 0: expanded=33 E=32 items=7 count=39/39
+   [p=1693] round 0: expanded=36 E=34 items=6 count=40/39
+   [p=5233] round 0: expanded=30 E=29 items=10 count=39/39
+n=39: ALL SCENARIOS CLOSED (15 scenarios, 0s) -> theory/certs/cert_n39.json

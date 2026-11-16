@@ -1,0 +1,15 @@
+   [G] round 0: expanded=31 E=30 items=39 count=97/97
+n=97: generic ok, count 97/97; special candidates: 12
+   [p=389] round 0: expanded=34 E=30 items=37 count=98/97
+   [p=25609] round 0: expanded=33 E=29 items=39 count=98/97
+   [p=25308077] round 0: expanded=31 E=27 items=40 count=97/97
+   [p=50053] round 0: expanded=31 E=28 items=40 count=97/97
+   [p=637097] round 0: expanded=33 E=28 items=38 count=97/97
+   [p=104761] round 0: expanded=30 E=27 items=43 count=98/97
+   [p=1687801] round 0: expanded=31 E=30 items=39 count=98/97
+   [p=44810897] round 0: expanded=32 E=28 items=43 count=102/97
+   [p=311177] round 0: expanded=31 E=26 items=42 count=97/97
+   [p=44621] round 0: expanded=33 E=29 items=42 count=101/97
+   [p=200597] round 0: expanded=32 E=28 items=39 count=97/97
+   [p=1553] round 0: expanded=33 E=29 items=39 count=97/97
+n=97: ALL SCENARIOS CLOSED (13 scenarios, 27s) -> theory/certs/cert_n97.json

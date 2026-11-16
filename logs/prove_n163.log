@@ -1,0 +1,45 @@
+   [G] round 0: expanded=54 E=53 items=63 count=167/163
+n=163: generic ok, count 167/163; special candidates: 28
+   [p=653] round 0: expanded=54 E=51 items=64 count=166/163
+   [p=2609] round 0: expanded=57 E=53 items=57 count=164/163
+   [p=41729] round 0: expanded=53 E=48 items=65 count=163/163
+   [p=82153] round 0: expanded=39 E=38 items=39 count=114/163
+     ecm[L0] cof of 7499 (623 digits): primes [] leftover digits [623]
+     ecm[L0] cof of 10433 (632 digits): primes [] leftover digits [632]
+     ecm[L0] cof of 16301 (678 digits): primes [1634247781, 2340590263937] leftover digits [656]
+   [p=82153] round 1: expanded=41 E=40 items=41 count=120/163
+     ecm[L0] cof of 16301 (656 digits): primes [5216895743029] leftover digits [644]
+   [p=82153] round 2: expanded=50 E=49 items=50 count=147/163
+     ecm[L0] cof of 6521 (613 digits): primes [] leftover digits [613]
+     ecm[L0] cof of 16301 (644 digits): primes [] leftover digits [644]
+     ecm[L0] cof of 21517 (700 digits): primes [] leftover digits [700]
+     ecm[L0] cof of 27059 (700 digits): primes [] leftover digits [700]
+     ecm[L0] cof of 41729 (735 digits): primes [] leftover digits [735]
+     ecm[L0] cof of 41077 (746 digits): primes [] leftover digits [746]
+     ecm[L0] cof of 45641 (753 digits): primes [7783242747479] leftover digits [740]
+   [p=82153] round 3: expanded=54 E=53 items=59 count=163/163
+   [p=7527341] round 0: expanded=54 E=51 items=62 count=163/163
+   [p=723721] round 0: expanded=55 E=52 items=60 count=164/163
+   [p=129749] round 0: expanded=53 E=49 items=65 count=164/163
+   [p=117361] round 0: expanded=54 E=50 items=62 count=164/163
+   [p=191689] round 0: expanded=52 E=48 items=68 count=165/163
+   [p=52813] round 0: expanded=53 E=52 items=61 count=164/163
+   [p=903673] round 0: expanded=53 E=52 items=63 count=166/163
+   [p=1942309] round 0: expanded=53 E=49 items=63 count=163/163
+   [p=31943437] round 0: expanded=53 E=52 items=61 count=164/163
+   [p=39790909] round 0: expanded=55 E=49 items=63 count=165/163
+   [p=5869] round 0: expanded=55 E=52 items=63 count=169/163
+   [p=137573] round 0: expanded=53 E=50 items=63 count=163/163
+   [p=40663937] round 0: expanded=53 E=48 items=67 count=165/163
+   [p=264874349] round 0: expanded=53 E=47 items=67 count=164/163
+   [p=4383397] round 0: expanded=54 E=51 items=65 count=167/163
+   [p=295357] round 0: expanded=54 E=50 items=63 count=165/163
+   [p=3971333] round 0: expanded=54 E=51 items=63 count=164/163
+   [p=762783929] round 0: expanded=54 E=50 items=63 count=164/163
+   [p=21517] round 0: expanded=53 E=49 items=67 count=167/163
+   [p=325349] round 0: expanded=53 E=49 items=65 count=164/163
+   [p=1134481] round 0: expanded=53 E=50 items=62 count=163/163
+   [p=45641] round 0: expanded=50 E=47 items=69 count=163/163
+   [p=9017161] round 0: expanded=53 E=49 items=63 count=163/163
+   [p=39185647273] round 0: expanded=54 E=53 items=60 count=165/163
+n=163: ALL SCENARIOS CLOSED (29 scenarios, 392s) -> theory/certs/cert_n163.json

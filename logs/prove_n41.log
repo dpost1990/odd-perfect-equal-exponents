@@ -1,0 +1,8 @@
+   [G] round 0: expanded=10 E=9 items=10 count=27/41
+     ecm cof of 41 (50 digits): primes [1876859311090803007, 5926187589691497537793497756719] leftover digits []
+   [G] round 1: expanded=14 E=13 items=18 count=42/41
+n=41: generic ok, count 42/41; special candidates: 3
+   [p=1752341] round 0: expanded=15 E=12 items=16 count=41/41
+   [p=145633] round 0: expanded=13 E=12 items=17 count=41/41
+   [p=235997] round 0: expanded=14 E=10 items=24 count=44/41
+n=41: ALL SCENARIOS CLOSED (4 scenarios, 20s) -> theory/certs/cert_n41.json

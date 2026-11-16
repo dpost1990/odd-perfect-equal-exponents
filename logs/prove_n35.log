@@ -1,0 +1,10 @@
+   [G] round 0: expanded=16 E=15 items=23 count=37/35
+n=35: generic ok, count 37/35; special candidates: 7
+   [p=29] round 0: expanded=17 E=14 items=23 count=37/35
+   [p=4733] round 0: expanded=17 E=14 items=21 count=35/35
+   [p=70001] round 0: expanded=16 E=13 items=22 count=35/35
+   [p=1093] round 0: expanded=15 E=14 items=21 count=35/35
+   [p=3389] round 0: expanded=16 E=13 items=24 count=37/35
+   [p=4621] round 0: expanded=16 E=15 items=22 count=37/35
+   [p=197] round 0: expanded=17 E=14 items=22 count=36/35
+n=35: ALL SCENARIOS CLOSED (8 scenarios, 54s) -> theory/certs/cert_n35.json

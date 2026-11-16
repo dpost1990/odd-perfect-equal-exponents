@@ -1,0 +1,14 @@
+{'n': 25, 'r': 5, 'status': 'closed', 'seconds': 27}
+{'n': 35, 'r': 7, 'status': 'closed', 'seconds': 54}
+{'n': 49, 'r': 7, 'status': 'closed', 'seconds': 0}
+{'n': 55, 'r': 11, 'status': 'closed', 'seconds': 93}
+{'n': 65, 'status': 'skipped (no usable r)'}
+{'n': 77, 'r': 7, 'status': 'closed', 'seconds': 78}
+{'n': 85, 'status': 'skipped (no usable r)'}
+{'n': 91, 'r': 7, 'status': 'closed', 'seconds': 20}
+{'n': 95, 'r': 19, 'status': 'closed', 'seconds': 74}
+{'n': 115, 'r': 23, 'status': 'closed', 'seconds': 72}
+{'n': 119, 'r': 7, 'status': 'closed', 'seconds': 71}
+{'n': 121, 'r': 11, 'status': 'closed', 'seconds': 19}
+{'n': 125, 'r': 5, 'status': 'closed', 'seconds': 68}
+{'n': 133, 'r': 7, 'status': 'closed', 'seconds': 34}

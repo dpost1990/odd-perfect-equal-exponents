@@ -1,0 +1,8 @@
+   [G] round 0: expanded=11 E=10 items=17 count=26/25
+n=49: generic ok, count 26/25; special candidates: 5
+   [p=29] round 0: expanded=12 E=9 items=16 count=25/25
+   [p=4733] round 0: expanded=12 E=9 items=16 count=25/25
+   [p=70001] round 0: expanded=13 E=10 items=16 count=26/25
+   [p=1093] round 0: expanded=11 E=10 items=16 count=26/25
+   [p=3389] round 0: expanded=13 E=10 items=17 count=27/25
+n=49: ALL SCENARIOS CLOSED (6 scenarios, 0s) -> theory/certs/cert_n49.json

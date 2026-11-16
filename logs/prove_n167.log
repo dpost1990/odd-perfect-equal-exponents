@@ -1,0 +1,114 @@
+   [G] round 0: expanded=3 E=2 items=3 count=7/167
+     ecm[L0] cof of 167 (365 digits): primes [1001953110409] leftover digits [353]
+   [G] round 1: expanded=6 E=5 items=6 count=16/167
+     ecm[L0] cof of 167 (353 digits): primes [] leftover digits [353]
+     ecm[L0] cof of 2339 (558 digits): primes [1054430987] leftover digits [549]
+   [G] round 2: expanded=8 E=7 items=8 count=22/167
+     ecm[L0] cof of 2339 (549 digits): primes [] leftover digits [549]
+     ecm[L0] cof of 16033 (693 digits): primes [] leftover digits [693]
+     ecm[L0] cof of 238477 (891 digits): primes [790822916228749] leftover digits [876]
+   [G] round 3: expanded=56 E=55 items=58 count=168/167
+n=167: generic ok, count 168/167; special candidates: 29
+   [p=16033] round 0: expanded=56 E=55 items=57 count=168/167
+   [p=238477] round 0: expanded=15 E=11 items=15 count=40/167
+     ecm[L0] cof of 47 (267 digits): primes [] leftover digits [267]
+     ecm[L0] cof of 43 (272 digits): primes [10637419091771, 1377674187867061997121389331629840018765307151351783039291557512710636228317653527238131835510418915721029914500690920257638108252992827218517207999767847859251859509373171649125849136783824824167995011438514336927465356830453823022428167553306140649079517783] leftover digits []
+   [p=238477] round 1: expanded=18 E=14 items=18 count=48/167
+     ecm[L0] cof of 7349 (640 digits): primes [] leftover digits [640]
+     ecm[L0] cof of 173347 (860 digits): primes [] leftover digits [860]
+     ecm[L0] cof of 161323 (863 digits): primes [] leftover digits [863]
+     ecm[L0] cof of 250501 (894 digits): primes [] leftover digits [894]
+     ecm[L0] cof of 637607 (958 digits): primes [] leftover digits [958]
+     ecm[L0] cof of 1650629 (1025 digits): primes [62789635908589] leftover digits [1011]
+   [p=238477] round 2: expanded=19 E=15 items=19 count=51/167
+     ecm[L0] cof of 1650629 (1011 digits): primes [] leftover digits [1011]
+     ecm[L0] cof of 7944191 (1144 digits): primes [8728613717, 449656874651213, 450297644504623] leftover digits [1104]
+   [p=238477] round 3: expanded=24 E=20 items=24 count=66/167
+     ecm[L0] cof of 241817 (892 digits): primes [1365238337623] leftover digits [880]
+   [p=238477] round 4: expanded=35 E=31 items=35 count=99/167
+     ecm[L0] cof of 31063 (735 digits): primes [254563627513963] leftover digits [721]
+   [p=238477] round 5: expanded=38 E=34 items=38 count=108/167
+     ecm[L0] cof of 31063 (721 digits): primes [] leftover digits [721]
+     ecm[L0] cof of 69473 (795 digits): primes [] leftover digits [795]
+     ecm[L0] cof of 196727 (877 digits): primes [] leftover digits [877]
+     ecm[L0] cof of 241817 (880 digits): primes [] leftover digits [880]
+     ecm[L0] cof of 1020037 (986 digits): primes [] leftover digits [986]
+     ecm[L0] cof of 1130257 (997 digits): primes [] leftover digits [997]
+     ecm[L0] cof of 2749823 (1059 digits): primes [804375947147] leftover digits [1048]
+   [p=238477] round 6: expanded=41 E=37 items=41 count=117/167
+     ecm[L0] cof of 54443 (784 digits): primes [] leftover digits [784]
+     ecm[L0] cof of 2749823 (1048 digits): primes [] leftover digits [1048]
+     ecm[L0] cof of 7944191 (1104 digits): primes [] leftover digits [1104]
+     ecm[L0] cof of 5816611 (1116 digits): primes [] leftover digits [1116]
+     ecm[L0] cof of 16672613 (1190 digits): primes [] leftover digits [1190]
+     ecm[L0] cof of 19880683 (1210 digits): primes [] leftover digits [1210]
+     ecm[L0] cof of 21085087 (1211 digits): primes [] leftover digits [1211]
+     ecm[L0] cof of 26085067 (1223 digits): primes [] leftover digits [1223]
+     ecm[L0] cof of 31988851 (1241 digits): primes [] leftover digits [1241]
+     ecm[L0] cof of 57398903 (1286 digits): primes [] leftover digits [1286]
+     ecm[L0] cof of 217502137 (1376 digits): primes [] leftover digits [1376]
+     ecm[L0] cof of 565811699 (1444 digits): primes [] leftover digits [1444]
+     ecm[L0] cof of 871945411 (1479 digits): primes [] leftover digits [1479]
+     ecm[L0] cof of 1054430987 (1491 digits): primes [2570481703] leftover digits [1481]
+   [p=238477] round 7: expanded=44 E=40 items=44 count=126/167
+     ecm[L0] cof of 242819 (892 digits): primes [545488612961, 9940820271064067784918318758381173871282236059411613914836390906496910728220219116091854801466041467216125114859799429227945017511090156135668572096761673105479432027411330520747360402062289810487453082712705236944473095788926372762019332181131853819682316757330833992223830724272186160959890111527859073992441266299449804165868348252313236214999615857796051232191131185853368572258270799837615716832278660080740097938881002187011375397273684859465851811074970865145545624155363762358768688733859927494479842135479689411400009829775081911424135370414120584237874524123297307037116128076953100796337043830447409075748673708546464497090631598001306795661969620343765950476478671770297849193885369022250724154858229837339521753038607859794877764900827518132958889376861959593201079740972749729747314092020490193767155489842653645442725491395674425010268618986379784673770124000709843] leftover digits []
+   [p=238477] round 8: expanded=45 E=41 items=45 count=128/167
+     ecm[L0] cof of 1665659 (1027 digits): primes [] leftover digits [1027]
+     ecm[L0] cof of 1054430987 (1481 digits): primes [] leftover digits [1481]
+     ecm[L0] cof of 2570481703 (1549 digits): primes [] leftover digits [1549]
+     ecm[L0] cof of 8728613717 (1641 digits): primes [] leftover digits [1641]
+     ecm[L0] cof of 545488612961 (1947 digits): primes [1350583777] leftover digits [1937]
+   [p=238477] round 9: expanded=53 E=49 items=53 count=152/167
+     ecm[L0] cof of 5011 (612 digits): primes [72682059973] leftover digits [602]
+   [p=238477] round 10: expanded=54 E=50 items=54 count=155/167
+     ecm[L0] cof of 5011 (602 digits): primes [] leftover digits [602]
+     ecm[L0] cof of 26053 (731 digits): primes [] leftover digits [731]
+     ecm[L0] cof of 306947 (896 digits): primes [545903517113] leftover digits [884]
+   [p=238477] round 11: expanded=58 E=54 items=58 count=167/167
+   [p=1001953110409] round 0: expanded=55 E=50 items=64 count=167/167
+   [p=250501] round 0: expanded=54 E=50 items=64 count=167/167
+   [p=790822916228749] round 0: expanded=33 E=29 items=33 count=93/167
+     ecm[L0] cof of 18371 (706 digits): primes [] leftover digits [706]
+     ecm[L0] cof of 53441 (778 digits): primes [457051839121] leftover digits [766]
+   [p=790822916228749] round 1: expanded=46 E=42 items=46 count=131/167
+     ecm[L0] cof of 8017 (637 digits): primes [4268478919, 161314488341] leftover digits [617]
+   [p=790822916228749] round 2: expanded=51 E=47 items=51 count=146/167
+     ecm[L0] cof of 8017 (617 digits): primes [] leftover digits [617]
+     ecm[L0] cof of 15031 (684 digits): primes [] leftover digits [684]
+     ecm[L0] cof of 53441 (766 digits): primes [] leftover digits [766]
+     ecm[L0] cof of 89809 (817 digits): primes [] leftover digits [817]
+     ecm[L0] cof of 101537 (829 digits): primes [26935313101, 279643138075323156764524746684751147092019557358480500928264428467757291303571282884019889201434592308353302902875145790160310863013466712197549136121511074041731499371940917896008307995943686494347812026298362246866479907612040506620130466084928065297442615415236941312097357192114474228053360821118896120994393651741329432734880672823793649000156492152449661286859835973732085598980791145582031952781497653501517052579166369300723226045925371362444110300070580210024470923151914982207481441738133524580687311866893351580965880399403476051695315362241595245686791262984357071342510543535696909368325083393886696193508419859307438378427837411441253575228879662394777246378703829528716259279564504734757076967679264434330576439095887044155740479565853522250075605948852316407195570590487522623208945628884193965744764261] leftover digits []
+   [p=790822916228749] round 3: expanded=53 E=49 items=53 count=151/167
+     ecm[L0] cof of 238477 (876 digits): primes [] leftover digits [876]
+     ecm[L0] cof of 306947 (884 digits): primes [] leftover digits [884]
+     ecm[L0] cof of 295591 (906 digits): primes [3509103984571, 81088812168839] leftover digits [880]
+   [p=790822916228749] round 4: expanded=55 E=51 items=55 count=157/167
+     ecm[L0] cof of 295591 (880 digits): primes [] leftover digits [880]
+     ecm[L0] cof of 368737 (915 digits): primes [] leftover digits [915]
+     ecm[L0] cof of 1160317 (994 digits): primes [169886777699] leftover digits [983]
+   [p=790822916228749] round 5: expanded=57 E=53 items=64 count=170/167
+   [p=8017] round 0: expanded=57 E=54 items=59 count=169/167
+   [p=17534333] round 0: expanded=57 E=53 items=60 count=169/167
+   [p=36112081] round 0: expanded=54 E=53 items=61 count=167/167
+   [p=108293489] round 0: expanded=57 E=53 items=62 count=168/167
+   [p=124117073] round 0: expanded=56 E=53 items=61 count=169/167
+   [p=7349] round 0: expanded=57 E=53 items=63 count=169/167
+   [p=145271297] round 0: expanded=57 E=53 items=59 count=168/167
+   [p=1997321] round 0: expanded=56 E=53 items=61 count=169/167
+   [p=134269] round 0: expanded=57 E=53 items=63 count=169/167
+   [p=7498301] round 0: expanded=56 E=52 items=61 count=168/167
+   [p=50101] round 0: expanded=57 E=53 items=62 count=171/167
+   [p=260777849] round 0: expanded=58 E=52 items=62 count=168/167
+   [p=8565097] round 0: expanded=54 E=53 items=63 count=169/167
+   [p=705409] round 0: expanded=57 E=53 items=63 count=168/167
+   [p=2225777] round 0: expanded=57 E=53 items=62 count=171/167
+   [p=5339993] round 0: expanded=56 E=52 items=60 count=167/167
+   [p=185720033] round 0: expanded=58 E=53 items=61 count=170/167
+   [p=275212661] round 0: expanded=56 E=52 items=61 count=168/167
+   [p=1098193] round 0: expanded=54 E=53 items=65 count=171/167
+   [p=3787561] round 0: expanded=55 E=54 items=60 count=167/167
+   [p=2233793] round 0: expanded=56 E=53 items=61 count=169/167
+   [p=4606529] round 0: expanded=57 E=52 items=63 count=168/167
+   [p=6587149] round 0: expanded=56 E=53 items=62 count=167/167
+   [p=682899073] round 0: expanded=55 E=51 items=64 count=169/167
+n=167: ALL SCENARIOS CLOSED (30 scenarios, 935s) -> theory/certs/cert_n167.json

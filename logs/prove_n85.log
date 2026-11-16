@@ -1,0 +1,27 @@
+   [G] round 0: expanded=45 E=44 items=43 count=86/85
+n=85: generic ok, count 86/85; special candidates: 23
+   [p=1361] round 0: expanded=46 E=43 items=42 count=85/85
+   [p=2221] round 0: expanded=44 E=43 items=42 count=85/85
+   [p=3221] round 0: expanded=46 E=43 items=43 count=86/85
+   [p=61] round 0: expanded=44 E=43 items=43 count=86/85
+   [p=271241] round 0: expanded=46 E=43 items=44 count=87/85
+   [p=1021] round 0: expanded=45 E=42 items=43 count=85/85
+   [p=41] round 0: expanded=46 E=43 items=43 count=86/85
+   [p=12041] round 0: expanded=46 E=43 items=43 count=86/85
+   [p=292661] round 0: expanded=47 E=44 items=41 count=86/85
+   [p=241] round 0: expanded=44 E=43 items=42 count=85/85
+   [p=8741] round 0: expanded=46 E=43 items=42 count=85/85
+   [p=13001] round 0: expanded=47 E=44 items=42 count=86/85
+   [p=1801] round 0: expanded=45 E=42 items=44 count=86/85
+   [p=101] round 0: expanded=46 E=43 items=42 count=85/85
+   [p=1381] round 0: expanded=45 E=44 items=41 count=85/85
+   [p=6781] round 0: expanded=43 E=42 items=43 count=85/85
+   [p=17981] round 0: expanded=47 E=44 items=41 count=85/85
+   [p=3301] round 0: expanded=45 E=42 items=45 count=87/85
+   [p=421] round 0: expanded=44 E=43 items=44 count=87/85
+   [p=181] round 0: expanded=45 E=42 items=43 count=85/85
+   [p=10321] round 0: expanded=46 E=43 items=42 count=85/85
+   [p=661] round 0: expanded=44 E=43 items=43 count=86/85
+   [p=16561] round 0: expanded=45 E=42 items=43 count=85/85
+   [p=5] round 0: expanded=30 E=28 items=43 count=85/85
+n=85: ALL SCENARIOS CLOSED (24 scenarios + part B, 14s) -> theory/certs/cert_n85.json

@@ -1,0 +1,16 @@
+   [G] round 0: expanded=23 E=22 items=24 count=67/67
+n=67: generic ok, count 67/67; special candidates: 11
+   [p=269] round 0: expanded=21 E=18 items=28 count=67/67
+   [p=4021] round 0: expanded=23 E=22 items=24 count=67/67
+   [p=46633] round 0: expanded=20 E=17 items=33 count=69/67
+   [p=418349] round 0: expanded=21 E=17 items=30 count=68/67
+   [p=730837] round 0: expanded=20 E=19 items=28 count=67/67
+   [p=1187509] round 0: expanded=21 E=18 items=28 count=67/67
+   [p=1361441] round 0: expanded=18 E=15 items=18 count=50/67
+     ecm cof of 3 (27 digits): primes [441019876741, 475384700124973] leftover digits []
+   [p=1361441] round 1: expanded=24 E=21 items=24 count=67/67
+   [p=10960933] round 0: expanded=22 E=18 items=28 count=68/67
+   [p=595229] round 0: expanded=22 E=18 items=32 count=71/67
+   [p=61868069] round 0: expanded=21 E=15 items=33 count=68/67
+   [p=68450149] round 0: expanded=22 E=18 items=29 count=67/67
+n=67: ALL SCENARIOS CLOSED (12 scenarios, 26s) -> theory/certs/cert_n67.json

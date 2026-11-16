@@ -1,0 +1,22 @@
+   [G] round 0: expanded=38 E=37 items=51 count=115/115
+n=115: generic ok, count 115/115; special candidates: 19
+   [p=461] round 0: expanded=41 E=37 items=53 count=116/115
+   [p=1289] round 0: expanded=40 E=36 items=54 count=119/115
+   [p=281153] round 0: expanded=39 E=36 items=52 count=115/115
+   [p=300749] round 0: expanded=40 E=36 items=53 count=118/115
+   [p=1053953] round 0: expanded=37 E=33 items=55 count=116/115
+   [p=277] round 0: expanded=37 E=36 items=53 count=116/115
+   [p=5981] round 0: expanded=39 E=36 items=52 count=115/115
+   [p=66977] round 0: expanded=39 E=36 items=54 count=118/115
+   [p=2990369] round 0: expanded=37 E=33 items=54 count=115/115
+   [p=40849] round 0: expanded=39 E=35 items=51 count=116/115
+   [p=19201873] round 0: expanded=39 E=36 items=51 count=116/115
+   [p=25312789] round 0: expanded=39 E=36 items=51 count=115/115
+   [p=4381409] round 0: expanded=43 E=37 items=53 count=117/115
+   [p=829] round 0: expanded=39 E=36 items=52 count=115/115
+   [p=92737] round 0: expanded=37 E=34 items=52 count=116/115
+   [p=3037] round 0: expanded=37 E=34 items=55 count=117/115
+   [p=1631897] round 0: expanded=40 E=36 items=55 count=118/115
+   [p=5939797] round 0: expanded=40 E=39 items=47 count=116/115
+   [p=9109] round 0: expanded=39 E=36 items=52 count=116/115
+n=115: ALL SCENARIOS CLOSED (20 scenarios, 72s) -> theory/certs/cert_n115.json

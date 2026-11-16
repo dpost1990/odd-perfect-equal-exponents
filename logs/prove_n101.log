@@ -1,0 +1,20 @@
+   [G] round 0: expanded=31 E=30 items=45 count=102/101
+n=101: generic ok, count 102/101; special candidates: 15
+   [p=1213] round 0: expanded=31 E=30 items=44 count=102/101
+   [p=5657] round 0: expanded=31 E=27 items=47 count=103/101
+   [p=157561] round 0: expanded=23 E=22 items=23 count=66/101
+     ecm cof of 101 (186 digits): primes [9931988588681, 102208068907493, 393101595766008847] leftover digits [142]
+   [p=157561] round 1: expanded=33 E=32 items=41 count=103/101
+   [p=809] round 0: expanded=29 E=26 items=48 count=101/101
+   [p=128473] round 0: expanded=30 E=29 items=47 count=103/101
+   [p=831433] round 0: expanded=29 E=28 items=46 count=101/101
+   [p=31513] round 0: expanded=32 E=29 items=46 count=102/101
+   [p=3679229] round 0: expanded=30 E=25 items=52 count=104/101
+   [p=37573] round 0: expanded=30 E=29 items=46 count=102/101
+   [p=4429457] round 0: expanded=30 E=26 items=50 count=103/101
+   [p=4835477] round 0: expanded=29 E=26 items=50 count=102/101
+   [p=9832553] round 0: expanded=32 E=29 items=44 count=101/101
+   [p=283609] round 0: expanded=33 E=29 items=44 count=101/101
+   [p=11717] round 0: expanded=30 E=26 items=49 count=101/101
+   [p=460561] round 0: expanded=30 E=29 items=46 count=102/101
+n=101: ALL SCENARIOS CLOSED (16 scenarios, 41s) -> theory/certs/cert_n101.json

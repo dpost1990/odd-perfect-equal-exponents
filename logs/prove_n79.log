@@ -1,0 +1,27 @@
+   [G] round 0: expanded=7 E=6 items=7 count=19/79
+     ecm cof of 79 (146 digits): primes [1558537597, 171355071830508389477] leftover digits [117]
+   [G] round 1: expanded=12 E=11 items=12 count=34/79
+     ecm cof of 79 (117 digits): primes [] leftover digits [117]
+     ecm cof of 317 (181 digits): primes [38603668043499953] leftover digits [165]
+   [G] round 2: expanded=16 E=15 items=16 count=46/79
+     ecm cof of 317 (165 digits): primes [] leftover digits [165]
+     ecm cof of 14221 (310 digits): primes [1945021354763, 4793622859903819757] leftover digits [279]
+   [G] round 3: expanded=27 E=26 items=29 count=79/79
+n=79: generic ok, count 79/79; special candidates: 16
+   [p=317] round 0: expanded=28 E=25 items=28 count=80/79
+   [p=14221] round 0: expanded=27 E=24 items=33 count=81/79
+   [p=52457] round 0: expanded=26 E=22 items=33 count=81/79
+   [p=213077537] round 0: expanded=25 E=21 items=35 count=80/79
+   [p=1558537597] round 0: expanded=27 E=26 items=29 count=80/79
+   [p=65729] round 0: expanded=26 E=21 items=35 count=80/79
+   [p=1877357] round 0: expanded=25 E=21 items=33 count=79/79
+   [p=38603668043499953] round 0: expanded=25 E=21 items=39 count=83/79
+   [p=212441429] round 0: expanded=26 E=21 items=34 count=80/79
+   [p=2924897] round 0: expanded=27 E=23 items=35 count=81/79
+   [p=96924469] round 0: expanded=27 E=24 items=30 count=81/79
+   [p=4793622859903819757] round 0: expanded=28 E=22 items=34 count=80/79
+   [p=32233] round 0: expanded=24 E=21 items=34 count=79/79
+   [p=47717] round 0: expanded=26 E=22 items=33 count=79/79
+   [p=356449] round 0: expanded=27 E=24 items=30 count=81/79
+   [p=1982269] round 0: expanded=26 E=22 items=35 count=79/79
+n=79: ALL SCENARIOS CLOSED (17 scenarios, 92s) -> theory/certs/cert_n79.json

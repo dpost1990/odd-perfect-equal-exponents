@@ -1,0 +1,7 @@
+   [G] round 0: expanded=7 E=6 items=13 count=24/23
+n=23: generic ok, count 24/23; special candidates: 2
+   [p=461] round 0: expanded=7 E=6 items=7 count=18/23
+     ecm cof of 23 (25 digits): primes [831603031789, 1920647391913] leftover digits []
+   [p=461] round 1: expanded=9 E=8 items=11 count=24/23
+   [p=1289] round 0: expanded=7 E=6 items=12 count=23/23
+n=23: ALL SCENARIOS CLOSED (3 scenarios, 10s) -> theory/certs/cert_n23.json

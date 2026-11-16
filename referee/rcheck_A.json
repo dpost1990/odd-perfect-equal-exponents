@@ -1,0 +1,545 @@
+{
+ "cert_n101.json": {
+  "ok": true,
+  "n": 101,
+  "r": 101,
+  "need": 101,
+  "G": 102,
+  "scenarios": 16,
+  "specials_needed": 15,
+  "min_count": 101
+ },
+ "cert_n105.json": {
+  "ok": true,
+  "n": 105,
+  "r": 3,
+  "need": 105,
+  "G": 106,
+  "scenarios": 47,
+  "specials_needed": 46,
+  "min_count": 105
+ },
+ "cert_n109.json": {
+  "ok": true,
+  "n": 109,
+  "r": 109,
+  "need": 109,
+  "G": 109,
+  "scenarios": 19,
+  "specials_needed": 18,
+  "min_count": 109
+ },
+ "cert_n111.json": {
+  "ok": true,
+  "n": 111,
+  "r": 3,
+  "need": 111,
+  "G": 112,
+  "scenarios": 49,
+  "specials_needed": 48,
+  "min_count": 111
+ },
+ "cert_n115.json": {
+  "ok": true,
+  "n": 115,
+  "r": 23,
+  "need": 115,
+  "G": 115,
+  "scenarios": 20,
+  "specials_needed": 19,
+  "min_count": 115
+ },
+ "cert_n119.json": {
+  "ok": true,
+  "n": 119,
+  "r": 7,
+  "need": 119,
+  "G": 119,
+  "scenarios": 35,
+  "specials_needed": 34,
+  "min_count": 119
+ },
+ "cert_n123.json": {
+  "ok": true,
+  "n": 123,
+  "r": 3,
+  "need": 123,
+  "G": 123,
+  "scenarios": 53,
+  "specials_needed": 52,
+  "min_count": 123
+ },
+ "cert_n127.json": {
+  "ok": true,
+  "n": 127,
+  "r": 127,
+  "need": 127,
+  "G": 128,
+  "scenarios": 23,
+  "specials_needed": 22,
+  "min_count": 127
+ },
+ "cert_n13.json": {
+  "ok": true,
+  "n": 13,
+  "r": 13,
+  "need": 13,
+  "G": 14,
+  "scenarios": 3,
+  "specials_needed": 2,
+  "min_count": 14
+ },
+ "cert_n133.json": {
+  "ok": true,
+  "n": 133,
+  "r": 7,
+  "need": 133,
+  "G": 134,
+  "scenarios": 39,
+  "specials_needed": 38,
+  "min_count": 133
+ },
+ "cert_n137.json": {
+  "ok": true,
+  "n": 137,
+  "r": 137,
+  "need": 137,
+  "G": 138,
+  "scenarios": 26,
+  "specials_needed": 25,
+  "min_count": 137
+ },
+ "cert_n141.json": {
+  "ok": true,
+  "n": 141,
+  "r": 3,
+  "need": 141,
+  "G": 141,
+  "scenarios": 60,
+  "specials_needed": 59,
+  "min_count": 141
+ },
+ "cert_n145.json": {
+  "ok": true,
+  "partB": 146,
+  "n": 145,
+  "r": 5,
+  "need": 145,
+  "G": 145,
+  "scenarios": 38,
+  "specials_needed": 37,
+  "min_count": 145
+ },
+ "cert_n149.json": {
+  "ok": true,
+  "n": 149,
+  "r": 149,
+  "need": 149,
+  "G": 150,
+  "scenarios": 27,
+  "specials_needed": 26,
+  "min_count": 149
+ },
+ "cert_n151.json": {
+  "ok": true,
+  "n": 151,
+  "r": 151,
+  "need": 151,
+  "G": 152,
+  "scenarios": 23,
+  "specials_needed": 22,
+  "min_count": 151
+ },
+ "cert_n155.json": {
+  "ok": true,
+  "n": 155,
+  "r": 31,
+  "need": 155,
+  "G": 157,
+  "scenarios": 29,
+  "specials_needed": 28,
+  "min_count": 155
+ },
+ "cert_n159.json": {
+  "ok": true,
+  "n": 159,
+  "r": 3,
+  "need": 159,
+  "G": 160,
+  "scenarios": 66,
+  "specials_needed": 65,
+  "min_count": 159
+ },
+ "cert_n163.json": {
+  "ok": true,
+  "n": 163,
+  "r": 163,
+  "need": 163,
+  "G": 167,
+  "scenarios": 29,
+  "specials_needed": 28,
+  "min_count": 163
+ },
+ "cert_n167.json": {
+  "ok": true,
+  "n": 167,
+  "r": 167,
+  "need": 167,
+  "G": 168,
+  "scenarios": 30,
+  "specials_needed": 29,
+  "min_count": 167
+ },
+ "cert_n17.json": {
+  "ok": true,
+  "n": 17,
+  "r": 17,
+  "need": 17,
+  "G": 18,
+  "scenarios": 4,
+  "specials_needed": 3,
+  "min_count": 17
+ },
+ "cert_n173.json": {
+  "ok": true,
+  "n": 173,
+  "r": 173,
+  "need": 173,
+  "G": 174,
+  "scenarios": 30,
+  "specials_needed": 29,
+  "min_count": 173
+ },
+ "cert_n177.json": {
+  "ok": true,
+  "n": 177,
+  "r": 3,
+  "need": 177,
+  "G": 177,
+  "scenarios": 70,
+  "specials_needed": 69,
+  "min_count": 177
+ },
+ "cert_n181.json": {
+  "ok": true,
+  "n": 181,
+  "r": 181,
+  "need": 181,
+  "G": 182,
+  "scenarios": 30,
+  "specials_needed": 29,
+  "min_count": 181
+ },
+ "cert_n185.json": {
+  "ok": true,
+  "partB": 186,
+  "n": 185,
+  "r": 5,
+  "need": 185,
+  "G": 185,
+  "scenarios": 47,
+  "specials_needed": 46,
+  "min_count": 185
+ },
+ "cert_n189.json": {
+  "ok": true,
+  "n": 189,
+  "r": 3,
+  "need": 63,
+  "G": 63,
+  "scenarios": 30,
+  "specials_needed": 29,
+  "min_count": 63
+ },
+ "cert_n191.json": {
+  "ok": true,
+  "n": 191,
+  "r": 191,
+  "need": 191,
+  "G": 191,
+  "scenarios": 39,
+  "specials_needed": 38,
+  "min_count": 191
+ },
+ "cert_n195.json": {
+  "ok": true,
+  "n": 195,
+  "r": 3,
+  "need": 195,
+  "G": 195,
+  "scenarios": 76,
+  "specials_needed": 75,
+  "min_count": 195
+ },
+ "cert_n199.json": {
+  "ok": true,
+  "n": 199,
+  "r": 199,
+  "need": 199,
+  "G": 200,
+  "scenarios": 34,
+  "specials_needed": 33,
+  "min_count": 199
+ },
+ "cert_n21.json": {
+  "ok": true,
+  "n": 21,
+  "r": 3,
+  "need": 21,
+  "G": 21,
+  "scenarios": 9,
+  "specials_needed": 8,
+  "min_count": 21
+ },
+ "cert_n25.json": {
+  "ok": true,
+  "n": 25,
+  "r": 5,
+  "need": 13,
+  "G": 14,
+  "scenarios": 4,
+  "specials_needed": 3,
+  "min_count": 13
+ },
+ "cert_n29.json": {
+  "ok": true,
+  "n": 29,
+  "r": 29,
+  "need": 29,
+  "G": 31,
+  "scenarios": 3,
+  "specials_needed": 2,
+  "min_count": 30
+ },
+ "cert_n31.json": {
+  "ok": true,
+  "n": 31,
+  "r": 31,
+  "need": 31,
+  "G": 31,
+  "scenarios": 8,
+  "specials_needed": 7,
+  "min_count": 31
+ },
+ "cert_n35.json": {
+  "ok": true,
+  "n": 35,
+  "r": 7,
+  "need": 35,
+  "G": 37,
+  "scenarios": 8,
+  "specials_needed": 7,
+  "min_count": 35
+ },
+ "cert_n39.json": {
+  "ok": true,
+  "n": 39,
+  "r": 3,
+  "need": 39,
+  "G": 39,
+  "scenarios": 15,
+  "specials_needed": 14,
+  "min_count": 39
+ },
+ "cert_n43.json": {
+  "ok": true,
+  "n": 43,
+  "r": 43,
+  "need": 43,
+  "G": 44,
+  "scenarios": 9,
+  "specials_needed": 8,
+  "min_count": 43
+ },
+ "cert_n47.json": {
+  "ok": true,
+  "n": 47,
+  "r": 47,
+  "need": 47,
+  "G": 47,
+  "scenarios": 5,
+  "specials_needed": 4,
+  "min_count": 47
+ },
+ "cert_n5.json": {
+  "ok": true,
+  "n": 5,
+  "r": 5,
+  "need": 5,
+  "G": 6,
+  "scenarios": 1,
+  "specials_needed": 0,
+  "min_count": 6
+ },
+ "cert_n53.json": {
+  "ok": true,
+  "n": 53,
+  "r": 53,
+  "need": 53,
+  "G": 53,
+  "scenarios": 10,
+  "specials_needed": 9,
+  "min_count": 53
+ },
+ "cert_n57.json": {
+  "ok": true,
+  "n": 57,
+  "r": 3,
+  "need": 57,
+  "G": 57,
+  "scenarios": 27,
+  "specials_needed": 26,
+  "min_count": 57
+ },
+ "cert_n61.json": {
+  "ok": true,
+  "n": 61,
+  "r": 61,
+  "need": 61,
+  "G": 62,
+  "scenarios": 13,
+  "specials_needed": 12,
+  "min_count": 61
+ },
+ "cert_n65.json": {
+  "ok": true,
+  "partB": 67,
+  "n": 65,
+  "r": 5,
+  "need": 65,
+  "G": 65,
+  "scenarios": 18,
+  "specials_needed": 17,
+  "min_count": 65
+ },
+ "cert_n69.json": {
+  "ok": true,
+  "n": 69,
+  "r": 3,
+  "need": 69,
+  "G": 70,
+  "scenarios": 33,
+  "specials_needed": 32,
+  "min_count": 69
+ },
+ "cert_n71.json": {
+  "ok": true,
+  "n": 71,
+  "r": 71,
+  "need": 71,
+  "G": 75,
+  "scenarios": 17,
+  "specials_needed": 16,
+  "min_count": 71
+ },
+ "cert_n75.json": {
+  "ok": true,
+  "n": 75,
+  "r": 3,
+  "need": 75,
+  "G": 75,
+  "scenarios": 36,
+  "specials_needed": 35,
+  "min_count": 75
+ },
+ "cert_n79.json": {
+  "ok": true,
+  "n": 79,
+  "r": 79,
+  "need": 79,
+  "G": 79,
+  "scenarios": 17,
+  "specials_needed": 16,
+  "min_count": 79
+ },
+ "cert_n83.json": {
+  "ok": true,
+  "n": 83,
+  "r": 83,
+  "need": 83,
+  "G": 84,
+  "scenarios": 13,
+  "specials_needed": 12,
+  "min_count": 83
+ },
+ "cert_n87.json": {
+  "ok": true,
+  "n": 87,
+  "r": 3,
+  "need": 87,
+  "G": 88,
+  "scenarios": 39,
+  "specials_needed": 38,
+  "min_count": 87
+ },
+ "cert_n9.json": {
+  "ok": true,
+  "n": 9,
+  "r": 3,
+  "need": 5,
+  "G": 5,
+  "scenarios": 6,
+  "specials_needed": 5,
+  "min_count": 5
+ },
+ "cert_n93.json": {
+  "ok": true,
+  "n": 93,
+  "r": 3,
+  "need": 93,
+  "G": 94,
+  "scenarios": 41,
+  "specials_needed": 40,
+  "min_count": 93
+ },
+ "cert_n97.json": {
+  "ok": true,
+  "n": 97,
+  "r": 97,
+  "need": 97,
+  "G": 97,
+  "scenarios": 13,
+  "specials_needed": 12,
+  "min_count": 97
+ },
+ "class_r11.json": {
+  "ok": true,
+  "n": null,
+  "r": 11,
+  "need": 300,
+  "G": 300,
+  "scenarios": 49,
+  "specials_needed": 48,
+  "min_count": 300
+ },
+ "class_r23.json": {
+  "ok": true,
+  "n": null,
+  "r": 23,
+  "need": 200,
+  "G": 201,
+  "scenarios": 33,
+  "specials_needed": 32,
+  "min_count": 200
+ },
+ "class_r43.json": {
+  "ok": true,
+  "n": null,
+  "r": 43,
+  "need": 150,
+  "G": 152,
+  "scenarios": 30,
+  "specials_needed": 29,
+  "min_count": 150
+ },
+ "class_r7.json": {
+  "ok": true,
+  "n": null,
+  "r": 7,
+  "need": 400,
+  "G": 400,
+  "scenarios": 95,
+  "specials_needed": 94,
+  "min_count": 400
+ }
+}

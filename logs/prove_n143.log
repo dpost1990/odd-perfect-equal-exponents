@@ -1,0 +1,25 @@
+   [G] round 0: expanded=55 E=54 items=73 count=143/143
+n=143: generic ok, count 143/143; special candidates: 22
+   [p=15797] round 0: expanded=54 E=51 items=76 count=144/143
+   [p=1277] round 0: expanded=58 E=55 items=71 count=145/143
+   [p=18701] round 0: expanded=56 E=53 items=74 count=144/143
+   [p=1806113] round 0: expanded=57 E=53 items=73 count=144/143
+   [p=36751837] round 0: expanded=56 E=53 items=71 count=143/143
+   [p=89] round 0: expanded=60 E=57 items=67 count=143/143
+   [p=33216481] round 0: expanded=57 E=54 items=77 count=145/143
+   [p=116880853] round 0: expanded=56 E=52 items=75 count=143/143
+   [p=16912503169] round 0: expanded=61 E=57 items=67 count=144/143
+   [p=226841033] round 0: expanded=59 E=54 items=76 count=145/143
+   [p=93941] round 0: expanded=58 E=54 items=73 count=144/143
+   [p=134333] round 0: expanded=59 E=55 items=72 count=144/143
+   [p=7877] round 0: expanded=57 E=53 items=76 count=143/143
+   [p=6073] round 0: expanded=55 E=54 items=76 count=146/143
+   [p=26055569] round 0: expanded=60 E=55 items=71 count=144/143
+   [p=790241] round 0: expanded=57 E=54 items=75 count=144/143
+   [p=8009] round 0: expanded=58 E=55 items=69 count=143/143
+   [p=8537] round 0: expanded=57 E=54 items=72 count=144/143
+   [p=174329] round 0: expanded=58 E=53 items=77 count=144/143
+   [p=92401] round 0: expanded=57 E=54 items=76 count=148/143
+   [p=537769] round 0: expanded=56 E=53 items=74 count=144/143
+   [p=2715329] round 0: expanded=59 E=55 items=70 count=145/143
+n=143: ALL SCENARIOS CLOSED (23 scenarios, 95s) -> theory/certs/cert_n143.json

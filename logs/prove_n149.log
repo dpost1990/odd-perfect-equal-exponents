@@ -1,0 +1,46 @@
+   [G] round 0: expanded=30 E=29 items=30 count=88/149
+     ecm cof of 149 (294 digits): primes [] leftover digits [294]
+     ecm cof of 1193 (447 digits): primes [106587247447, 1280528990049467] leftover digits [421]
+   [G] round 1: expanded=49 E=48 items=54 count=150/149
+n=149: generic ok, count 150/149; special candidates: 26
+   [p=1193] round 0: expanded=25 E=22 items=25 count=71/149
+     ecm cof of 149 (294 digits): primes [] leftover digits [294]
+     ecm cof of 199 (341 digits): primes [34617077323] leftover digits [330]
+   [p=1193] round 1: expanded=35 E=32 items=35 count=101/149
+     ecm cof of 199 (330 digits): primes [] leftover digits [330]
+     ecm cof of 1789 (463 digits): primes [127063719629329803527] leftover digits [443]
+   [p=1193] round 2: expanded=50 E=47 items=53 count=149/149
+   [p=2584853] round 0: expanded=50 E=46 items=56 count=150/149
+   [p=4765021] round 0: expanded=49 E=48 items=52 count=149/149
+   [p=110261] round 0: expanded=50 E=45 items=56 count=150/149
+   [p=1789] round 0: expanded=50 E=47 items=53 count=149/149
+   [p=2458501] round 0: expanded=50 E=47 items=53 count=150/149
+   [p=12517] round 0: expanded=49 E=46 items=56 count=151/149
+   [p=4253653] round 0: expanded=48 E=47 items=54 count=149/149
+   [p=2771401] round 0: expanded=49 E=46 items=54 count=149/149
+   [p=3112313] round 0: expanded=50 E=45 items=56 count=150/149
+   [p=45929549] round 0: expanded=52 E=47 items=56 count=152/149
+   [p=657100729] round 0: expanded=50 E=45 items=55 count=149/149
+   [p=813541] round 0: expanded=50 E=46 items=54 count=149/149
+   [p=13709] round 0: expanded=38 E=34 items=38 count=108/149
+     ecm cof of 149 (294 digits): primes [] leftover digits [294]
+     ecm cof of 457 (394 digits): primes [4421757855772253, 11914971423402923] leftover digits [362]
+   [p=13709] round 1: expanded=51 E=47 items=51 count=147/149
+     ecm cof of 457 (362 digits): primes [] leftover digits [362]
+     ecm cof of 1193 (421 digits): primes [] leftover digits [421]
+     ecm cof of 1789 (443 digits): primes [] leftover digits [443]
+     ecm cof of 2087 (483 digits): primes [9216044744240149618667] leftover digits [461]
+   [p=13709] round 2: expanded=52 E=48 items=53 count=151/149
+   [p=111726161] round 0: expanded=51 E=46 items=54 count=150/149
+   [p=346873] round 0: expanded=49 E=46 items=54 count=149/149
+   [p=46489] round 0: expanded=50 E=47 items=55 count=151/149
+   [p=19073] round 0: expanded=50 E=46 items=56 count=151/149
+   [p=8941] round 0: expanded=48 E=45 items=57 count=150/149
+   [p=332569] round 0: expanded=50 E=46 items=56 count=150/149
+   [p=1072801] round 0: expanded=49 E=45 items=55 count=149/149
+   [p=1362457] round 0: expanded=46 E=45 items=58 count=149/149
+   [p=7047701] round 0: expanded=47 E=44 items=61 count=151/149
+   [p=11619617] round 0: expanded=50 E=46 items=58 count=152/149
+   [p=62581] round 0: expanded=50 E=46 items=53 count=149/149
+   [p=196681] round 0: expanded=50 E=47 items=53 count=150/149
+n=149: ALL SCENARIOS CLOSED (27 scenarios, 373s) -> theory/certs/cert_n149.json

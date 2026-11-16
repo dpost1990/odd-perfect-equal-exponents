@@ -1,0 +1,10 @@
+   [G] round 0: expanded=8 E=7 items=4 count=10/9
+n=27: generic ok, count 10/9; special candidates: 7
+   [p=13] round 0: expanded=7 E=6 items=3 count=9/9
+   [p=61] round 0: expanded=8 E=7 items=2 count=9/9
+   [p=97] round 0: expanded=7 E=6 items=3 count=9/9
+   [p=3169] round 0: expanded=9 E=6 items=3 count=9/9
+   [p=3348577] round 0: expanded=7 E=6 items=4 count=10/9
+   [p=3737657091169] round 0: expanded=7 E=5 items=4 count=9/9
+   [p=181] round 0: expanded=8 E=7 items=2 count=9/9
+n=27: ALL SCENARIOS CLOSED (8 scenarios, 0s) -> theory/certs/cert_n27.json

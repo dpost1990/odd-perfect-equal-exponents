@@ -1,0 +1,21 @@
+   [G] round 0: expanded=17 E=16 items=17 count=47/150
+     ecm[L0] cof of 47 (74 digits): primes [] leftover digits [74]
+     ecm[L0] cof of 283 (112 digits): primes [853655196276028187, 1514722285718485847464434178444687393541456525113227447859986252425093654491094216454470098937] leftover digits []
+   [G] round 1: expanded=20 E=19 items=20 count=55/150
+     ecm[L0] cof of 1223 (122 digits): primes [17126458558067] leftover digits [109]
+   [G] round 2: expanded=46 E=45 items=46 count=131/150
+     ecm[L0] cof of 1223 (109 digits): primes [] leftover digits [109]
+     ecm[L0] cof of 941 (136 digits): primes [] leftover digits [136]
+     ecm[L0] cof of 1693 (138 digits): primes [97393691703143751909113] leftover digits [115]
+   [G] round 3: expanded=47 E=46 items=47 count=134/150
+     ecm[L0] cof of 1693 (115 digits): primes [] leftover digits [115]
+     ecm[L0] cof of 1787 (140 digits): primes [] leftover digits [140]
+     ecm[L0] cof of 5171 (165 digits): primes [] leftover digits [165]
+     ecm[L0] cof of 5077 (166 digits): primes [763206138091] leftover digits [154]
+   [G] round 4: expanded=48 E=47 items=48 count=137/150
+     ecm[L0] cof of 5077 (154 digits): primes [] leftover digits [154]
+     ecm[L0] cof of 5923 (172 digits): primes [] leftover digits [172]
+     ecm[L0] cof of 8273 (177 digits): primes [31965294863512045335431] leftover digits [154]
+   [G] round 5: expanded=52 E=51 items=54 count=151/150
+class r=47: generic ok (151/150); specials: 16
+class r=47: v_r(N) >= 150 certified (17 scenarios, 242s)

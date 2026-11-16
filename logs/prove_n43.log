@@ -1,0 +1,11 @@
+   [G] round 0: expanded=12 E=11 items=24 count=44/43
+n=43: generic ok, count 44/43; special candidates: 8
+   [p=173] round 0: expanded=14 E=11 items=22 count=43/43
+   [p=120401] round 0: expanded=13 E=10 items=25 count=45/43
+   [p=95821889] round 0: expanded=16 E=11 items=20 count=43/43
+   [p=13417] round 0: expanded=12 E=11 items=22 count=43/43
+   [p=80669] round 0: expanded=16 E=12 items=22 count=47/43
+   [p=2237] round 0: expanded=13 E=10 items=25 count=45/43
+   [p=10321] round 0: expanded=17 E=14 items=17 count=44/43
+   [p=25457] round 0: expanded=13 E=10 items=24 count=44/43
+n=43: ALL SCENARIOS CLOSED (9 scenarios, 22s) -> theory/certs/cert_n43.json

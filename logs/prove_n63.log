@@ -1,0 +1,13 @@
+   [G] round 0: expanded=26 E=25 items=8 count=32/32
+n=63: generic ok, count 32/32; special candidates: 10
+   [p=13] round 0: expanded=27 E=26 items=6 count=32/32
+   [p=61] round 0: expanded=27 E=26 items=6 count=32/32
+   [p=97] round 0: expanded=27 E=26 items=6 count=32/32
+   [p=3169] round 0: expanded=27 E=24 items=8 count=32/32
+   [p=3348577] round 0: expanded=26 E=25 items=8 count=33/32
+   [p=3737657091169] round 0: expanded=26 E=23 items=9 count=32/32
+   [p=181] round 0: expanded=26 E=25 items=7 count=32/32
+   [p=109] round 0: expanded=29 E=26 items=6 count=32/32
+   [p=433] round 0: expanded=26 E=25 items=7 count=32/32
+   [p=37] round 0: expanded=26 E=25 items=7 count=32/32
+n=63: ALL SCENARIOS CLOSED (11 scenarios, 0s) -> theory/certs/cert_n63.json

@@ -1,0 +1,4 @@
+n=101 beta=50 r=101 need=101 scenarios=16 expansions=490 pocklington=0 maxQ~1e17 : VERIFIED
+n=103 beta=51 r=103 need=103 scenarios=15 expansions=514 pocklington=0 maxQ~1e22 : VERIFIED
+n=105 beta=52 r=3 need=105 scenarios=47 expansions=4222 pocklington=0 maxQ~1e12 : VERIFIED
+n=107 beta=53 r=107 need=107 scenarios=19 expansions=665 pocklington=1 maxQ~1e40 : VERIFIED

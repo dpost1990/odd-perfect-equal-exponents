@@ -1,0 +1,33 @@
+   [G] round 0: expanded=56 E=55 items=58 count=157/155
+n=155: generic ok, count 157/155; special candidates: 28
+   [p=568972471024107865287021434301977158534824481] round 0: expanded=53 E=50 items=61 count=155/155
+   [p=78989] round 0: expanded=50 E=46 items=70 count=156/155
+   [p=373] round 0: expanded=53 E=50 items=66 count=158/155
+   [p=7860900416317517] round 0: expanded=49 E=43 items=70 count=155/155
+   [p=49477] round 0: expanded=53 E=49 items=64 count=155/155
+   [p=1613] round 0: expanded=49 E=46 items=69 count=155/155
+   [p=18353] round 0: expanded=52 E=47 items=69 count=157/155
+   [p=1861] round 0: expanded=57 E=54 items=59 count=156/155
+   [p=7937] round 0: expanded=49 E=46 items=69 count=155/155
+   [p=1117] round 0: expanded=51 E=48 items=66 count=155/155
+   [p=29389] round 0: expanded=56 E=53 items=59 count=155/155
+   [p=59149] round 0: expanded=58 E=54 items=60 count=157/155
+   [p=115693] round 0: expanded=55 E=54 items=57 count=155/155
+   [p=323641] round 0: expanded=53 E=49 items=65 count=157/155
+   [p=387253] round 0: expanded=55 E=51 items=59 count=156/155
+   [p=446773] round 0: expanded=51 E=48 items=64 count=155/155
+   [p=60637] round 0: expanded=53 E=52 items=61 count=156/155
+   [p=494761] round 0: expanded=53 E=52 items=52 count=145/155
+     ecm[L0] cof of 311 (64 digits): primes [34066676217433, 69668462782815167, 1080920665833206488224219194924239] leftover digits []
+   [p=494761] round 1: expanded=55 E=54 items=58 count=156/155
+   [p=57041] round 0: expanded=51 E=48 items=69 count=157/155
+   [p=1489] round 0: expanded=56 E=53 items=60 count=156/155
+   [p=5953] round 0: expanded=56 E=53 items=60 count=157/155
+   [p=1919273] round 0: expanded=49 E=45 items=72 count=156/155
+   [p=11201293] round 0: expanded=54 E=51 items=61 count=155/155
+   [p=18668201] round 0: expanded=49 E=43 items=74 count=155/155
+   [p=134877653] round 0: expanded=50 E=46 items=71 count=156/155
+   [p=298046153] round 0: expanded=49 E=46 items=71 count=156/155
+   [p=10789] round 0: expanded=54 E=50 items=63 count=155/155
+   [p=2729] round 0: expanded=50 E=45 items=73 count=156/155
+n=155: ALL SCENARIOS CLOSED (29 scenarios, 126s) -> theory/certs/cert_n155.json

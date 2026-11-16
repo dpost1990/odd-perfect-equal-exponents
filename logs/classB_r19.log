@@ -1,0 +1,3 @@
+   [G] round 0: expanded=65 E=64 items=93 count=203/200
+class r=19: generic ok (203/200); specials: 35
+class r=19: v_r(N) >= 200 certified (36 scenarios, 92s)

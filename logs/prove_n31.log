@@ -1,0 +1,14 @@
+   [G] round 0: expanded=5 E=4 items=4 count=9/31
+     ecm cof of 78989 (143 digits): primes [7860900416317517, 9299533192616171559753762410621402361866899906024508211152143965991162635928847406238042458260182778684819549241088584336104981] leftover digits []
+   [G] round 1: expanded=7 E=6 items=6 count=14/31
+     ecm cof of 49477 (140 digits): primes [33241121731805414591] leftover digits [120]
+   [G] round 2: expanded=11 E=10 items=15 count=31/31
+n=31: generic ok, count 31/31; special candidates: 7
+   [p=568972471024107865287021434301977158534824481] round 0: expanded=12 E=9 items=16 count=33/31
+   [p=78989] round 0: expanded=11 E=7 items=21 count=34/31
+   [p=373] round 0: expanded=12 E=9 items=18 count=33/31
+   [p=7860900416317517] round 0: expanded=11 E=6 items=19 count=32/31
+   [p=49477] round 0: expanded=12 E=8 items=19 count=34/31
+   [p=1613] round 0: expanded=10 E=7 items=20 count=33/31
+   [p=18353] round 0: expanded=12 E=7 items=17 count=31/31
+n=31: ALL SCENARIOS CLOSED (8 scenarios, 40s) -> theory/certs/cert_n31.json

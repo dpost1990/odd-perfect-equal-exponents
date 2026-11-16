@@ -1,0 +1,3 @@
+   [G] round 0: expanded=180 E=179 items=198 count=400/400
+class r=7: generic ok (400/400); specials: 94
+class r=7: v_r(N) >= 400 certified (95 scenarios, 174s)

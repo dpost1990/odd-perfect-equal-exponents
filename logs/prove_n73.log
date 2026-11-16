@@ -1,0 +1,14 @@
+   [G] round 0: expanded=14 E=13 items=14 count=40/73
+     ecm cof of 73 (108 digits): primes [1295720382587, 3611379501352361, 1192167517020392933] leftover digits [63]
+   [G] round 1: expanded=25 E=24 items=30 count=77/73
+n=73: generic ok, count 77/73; special candidates: 9
+   [p=293] round 0: expanded=22 E=19 items=33 count=73/73
+   [p=4673] round 0: expanded=23 E=19 items=34 count=75/73
+   [p=543997] round 0: expanded=23 E=19 items=31 count=73/73
+   [p=1414741] round 0: expanded=23 E=19 items=33 count=74/73
+   [p=36209] round 0: expanded=23 E=18 items=35 count=74/73
+   [p=119429] round 0: expanded=22 E=18 items=34 count=73/73
+   [p=3611379501352361] round 0: expanded=23 E=19 items=33 count=73/73
+   [p=3267773] round 0: expanded=22 E=17 items=37 count=75/73
+   [p=220169] round 0: expanded=21 E=16 items=39 count=73/73
+n=73: ALL SCENARIOS CLOSED (10 scenarios, 31s) -> theory/certs/cert_n73.json

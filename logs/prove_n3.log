@@ -1,0 +1,6 @@
+   [G] round 0: expanded=4 E=3 items=1 count=3/3
+n=3: generic ok, count 3/3; special candidates: 3
+   [p=13] round 0: expanded=3 E=2 items=1 count=3/3
+   [p=61] round 0: expanded=3 E=2 items=1 count=3/3
+   [p=97] round 0: expanded=2 E=1 items=2 count=3/3
+n=3: ALL SCENARIOS CLOSED (4 scenarios, 0s) -> theory/certs/cert_n3.json

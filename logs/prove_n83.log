@@ -1,0 +1,17 @@
+   [G] round 0: expanded=28 E=27 items=32 count=84/83
+n=83: generic ok, count 84/83; special candidates: 12
+   [p=2657] round 0: expanded=28 E=25 items=28 count=79/83
+     ecm cof of 3 (33 digits): primes [1036745531, 950996059627210897943351] leftover digits []
+   [p=2657] round 1: expanded=30 E=27 items=30 count=84/83
+   [p=42829] round 0: expanded=29 E=26 items=31 count=84/83
+   [p=1182917] round 0: expanded=28 E=24 items=37 count=86/83
+   [p=2951813] round 0: expanded=27 E=24 items=35 count=83/83
+   [p=1993] round 0: expanded=28 E=27 items=32 count=86/83
+   [p=9629] round 0: expanded=27 E=23 items=36 count=83/83
+   [p=1905017] round 0: expanded=27 E=24 items=35 count=83/83
+   [p=11155201] round 0: expanded=28 E=27 items=31 count=84/83
+   [p=997] round 0: expanded=27 E=26 items=32 count=83/83
+   [p=10957] round 0: expanded=28 E=27 items=33 count=86/83
+   [p=18593] round 0: expanded=28 E=25 items=33 count=83/83
+   [p=16127897] round 0: expanded=28 E=25 items=34 count=84/83
+n=83: ALL SCENARIOS CLOSED (13 scenarios, 21s) -> theory/certs/cert_n83.json

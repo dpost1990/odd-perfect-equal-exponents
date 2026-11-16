@@ -1,0 +1,115 @@
+| n = 2b+1 | b | r | S-members needed | scenarios | expansions | verify.py | prior result |
+|---|---|---|---|---|---|---|---|
+| 3 | 1 | 3 | 3 | 4 | 12 | VERIFIED | Steuerwald 1937 |
+| 5 | 2 | 5 | 5 | 1 | 4 | VERIFIED | Kanold 1941 |
+| 7 | 3 | 7 | 7 | 4 | 14 | VERIFIED | Hagis-McDaniel 1972 |
+| 9 | 4 | 3 | 5 | 6 | 28 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 11 | 5 | 11 | 11 | 2 | 9 | VERIFIED | McDaniel-Hagis 1975 |
+| 13 | 6 | 13 | 13 | 3 | 21 | VERIFIED | Cohen-Williams 1985 |
+| 15 | 7 | 3 | 15 | 8 | 100 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 17 | 8 | 17 | 17 | 4 | 22 | VERIFIED | Cohen-Williams 1985 |
+| 19 | 9 | 19 | 19 | 6 | 42 | VERIFIED | **none found (new)** |
+| 21 | 10 | 3 | 21 | 9 | 158 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 23 | 11 | 23 | 23 | 3 | 23 | VERIFIED | Cohen-Williams 1985 |
+| 25 | 12 | 5 | 13 | 4 | 33 | VERIFIED | McDaniel-Hagis 1975 |
+| 27 | 13 | 3 | 9 | 8 | 61 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 29 | 14 | 29 | 29 | 3 | 24 | VERIFIED | Cohen-Williams 1985 |
+| 31 | 15 | 31 | 31 | 8 | 91 | VERIFIED | **none found (new)** |
+| 33 | 16 | 3 | 33 | 12 | 332 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 35 | 17 | 7 | 35 | 8 | 130 | VERIFIED | McDaniel-Hagis 1975 |
+| 37 | 18 | 37 | 37 | 6 | 68 | VERIFIED | Cohen-Williams 1985 |
+| 39 | 19 | 3 | 39 | 15 | 507 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 41 | 20 | 41 | 41 | 4 | 56 | VERIFIED | **none found (new)** |
+| 43 | 21 | 43 | 43 | 9 | 126 | VERIFIED | **none found (new)** |
+| 45 | 22 | 3 | 23 | 9 | 174 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 47 | 23 | 47 | 47 | 5 | 80 | VERIFIED | **none found (new)** |
+| 49 | 24 | 7 | 25 | 6 | 72 | VERIFIED | McDaniel-Hagis 1975 |
+| 51 | 25 | 3 | 51 | 23 | 1024 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 53 | 26 | 53 | 53 | 10 | 178 | VERIFIED | **none found (new)** |
+| 55 | 27 | 11 | 55 | 11 | 268 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 57 | 28 | 3 | 57 | 27 | 1372 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 59 | 29 | 59 | 59 | 11 | 211 | VERIFIED | **none found (new)** |
+| 61 | 30 | 61 | 61 | 13 | 253 | VERIFIED | **none found (new)** |
+| 63 | 31 | 3 | 32 | 11 | 293 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 65 | 32 | 5 | 65 | 19 | 660 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 67 | 33 | 67 | 67 | 12 | 260 | VERIFIED | **none found (new)** |
+| 69 | 34 | 3 | 69 | 33 | 2012 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 71 | 35 | 71 | 71 | 17 | 419 | VERIFIED | **none found (new)** |
+| 73 | 36 | 73 | 73 | 10 | 227 | VERIFIED | **none found (new)** |
+| 75 | 37 | 3 | 75 | 36 | 2362 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 77 | 38 | 7 | 77 | 20 | 691 | VERIFIED | **none found (new)** |
+| 79 | 39 | 79 | 79 | 17 | 447 | VERIFIED | **none found (new)** |
+| 81 | 40 | 3 | 21 | 9 | 158 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 83 | 41 | 83 | 83 | 13 | 363 | VERIFIED | **none found (new)** |
+| 85 | 42 | 5 | 85 | 25 | 1117 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 87 | 43 | 3 | 87 | 39 | 2935 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 89 | 44 | 89 | 89 | 16 | 498 | VERIFIED | **none found (new)** |
+| 91 | 45 | 7 | 91 | 25 | 1012 | VERIFIED | **none found (new)** |
+| 93 | 46 | 3 | 93 | 41 | 3278 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 95 | 47 | 19 | 95 | 18 | 585 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 97 | 48 | 97 | 97 | 13 | 415 | VERIFIED | **none found (new)** |
+| 99 | 49 | 3 | 50 | 23 | 999 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 101 | 50 | 101 | 101 | 16 | 490 | VERIFIED | **none found (new)** |
+| 103 | 51 | 103 | 103 | 15 | 514 | VERIFIED | **none found (new)** |
+| 105 | 52 | 3 | 105 | 47 | 4222 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 107 | 53 | 107 | 107 | 19 | 665 | VERIFIED | **none found (new)** |
+| 109 | 54 | 109 | 109 | 19 | 695 | VERIFIED | **none found (new)** |
+| 111 | 55 | 3 | 111 | 49 | 4644 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 113 | 56 | 113 | 113 | 15 | 556 | VERIFIED | **none found (new)** |
+| 115 | 57 | 23 | 115 | 20 | 779 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 117 | 58 | 3 | 59 | 28 | 1468 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 119 | 59 | 7 | 119 | 35 | 1871 | VERIFIED | **none found (new)** |
+| 121 | 60 | 11 | 61 | 13 | 346 | VERIFIED | **none found (new)** |
+| 123 | 61 | 3 | 123 | 53 | 5535 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 125 | 62 | 5 | 42 | 12 | 285 | VERIFIED | McDaniel-Hagis 1975 |
+| 127 | 63 | 127 | 127 | 23 | 984 | VERIFIED | **none found (new)** |
+| 129 | 64 | 3 | 129 | 54 | 5950 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 131 | 65 | 131 | 131 | 18 | 784 | VERIFIED | **none found (new)** |
+| 133 | 66 | 7 | 133 | 39 | 2324 | VERIFIED | **none found (new)** |
+| 135 | 67 | 3 | 45 | 20 | 781 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 137 | 68 | 137 | 137 | 26 | 1137 | VERIFIED | **none found (new)** |
+| 139 | 69 | 139 | 139 | 22 | 984 | VERIFIED | **none found (new)** |
+| 141 | 70 | 3 | 141 | 60 | 7257 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 143 | 71 | 11 | 143 | 23 | 1320 | VERIFIED | **none found (new)** |
+| 145 | 72 | 5 | 145 | 39 | 2935 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 147 | 73 | 3 | 147 | 62 | 7830 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 149 | 74 | 149 | 149 | 27 | 1338 | VERIFIED | **none found (new)** |
+| 151 | 75 | 151 | 151 | 23 | 1171 | VERIFIED | **none found (new)** |
+| 153 | 76 | 3 | 77 | 37 | 2487 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 155 | 77 | 31 | 155 | 29 | 1526 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 157 | 78 | 157 | 157 | 27 | 1403 | VERIFIED | **none found (new)** |
+| 159 | 79 | 3 | 159 | 66 | 9047 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 161 | 80 | 7 | 161 | 43 | 3125 | VERIFIED | **none found (new)** |
+| 163 | 81 | 163 | 163 | 29 | 1553 | VERIFIED | **none found (new)** |
+| 165 | 82 | 3 | 165 | 67 | 9494 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 167 | 83 | 167 | 167 | 30 | 1686 | VERIFIED | **none found (new)** |
+| 169 | 84 | 13 | 85 | 15 | 495 | VERIFIED | **none found (new)** |
+| 171 | 85 | 3 | 86 | 39 | 2903 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 173 | 86 | 173 | 173 | 30 | 1740 | VERIFIED | **none found (new)** |
+| 175 | 87 | 7 | 175 | 47 | 3728 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 177 | 88 | 3 | 177 | 70 | 10613 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 179 | 89 | 179 | 179 | 34 | 1999 | VERIFIED | **none found (new)** |
+| 181 | 90 | 181 | 181 | 30 | 1769 | VERIFIED | **none found (new)** |
+| 183 | 91 | 3 | 183 | 72 | 11300 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 185 | 92 | 5 | 185 | 48 | 4591 | VERIFIED | Brown 2015, arXiv:1512.01270 (5 | 2b+1) |
+| 187 | 93 | 11 | 187 | 34 | 2532 | VERIFIED | **none found (new)** |
+| 189 | 94 | 3 | 63 | 30 | 1690 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 191 | 95 | 191 | 191 | 39 | 2465 | VERIFIED | **none found (new)** |
+| 193 | 96 | 193 | 193 | 36 | 2353 | VERIFIED | **none found (new)** |
+| 195 | 97 | 3 | 195 | 76 | 12665 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+| 197 | 98 | 197 | 197 | 30 | 1957 | VERIFIED | **none found (new)** |
+| 199 | 99 | 199 | 199 | 34 | 2222 | VERIFIED | **none found (new)** |
+| 201 | 100 | 3 | 201 | 78 | 13392 | VERIFIED | McDaniel 1970 (3 | 2b+1) |
+
+new beta (verified): [9, 15, 20, 21, 23, 26, 29, 30, 33, 35, 36, 38, 39, 41, 44, 45, 48, 50, 51, 53, 54, 56, 59, 60, 63, 65, 66, 68, 69, 71, 74, 75, 78, 80, 81, 83, 84, 86, 89, 90, 93, 95, 96, 98, 99]
+
+| r | certified: v_r(N) >= | hence v_r(N) >= (v == r-1 mod 2r) | scenarios | expansions | verify.py |
+|---|---|---|---|---|---|
+| 7 | 400 | 412 | 95 | 17194 | VERIFIED |
+| 11 | 300 | 318 | 49 | 5806 | VERIFIED |
+| 19 | 200 | 208 | 36 | 2418 | VERIFIED |
+| 23 | 200 | 206 | 33 | 2233 | VERIFIED |
+| 31 | 150 | 154 | 28 | 1407 | VERIFIED |
+| 43 | 150 | 214 | 30 | 1472 | VERIFIED |
+| 47 | 150 | 234 | 17 | 850 | VERIFIED |
+all odd n verified up to 201 => all beta <= 100

@@ -1,0 +1,21 @@
+   [G] round 0: expanded=34 E=33 items=33 count=65/65
+n=65: generic ok, count 65/65; special candidates: 17
+   [p=1361] round 0: expanded=35 E=32 items=33 count=65/65
+   [p=2221] round 0: expanded=34 E=33 items=32 count=65/65
+   [p=3221] round 0: expanded=35 E=32 items=33 count=65/65
+   [p=61] round 0: expanded=33 E=32 items=33 count=65/65
+   [p=271241] round 0: expanded=35 E=32 items=34 count=66/65
+   [p=1021] round 0: expanded=35 E=32 items=34 count=66/65
+   [p=41] round 0: expanded=36 E=33 items=34 count=67/65
+   [p=12041] round 0: expanded=36 E=33 items=32 count=65/65
+   [p=292661] round 0: expanded=37 E=34 items=31 count=66/65
+   [p=241] round 0: expanded=34 E=33 items=34 count=67/65
+   [p=8741] round 0: expanded=36 E=33 items=33 count=66/65
+   [p=13001] round 0: expanded=37 E=34 items=32 count=66/65
+   [p=1801] round 0: expanded=36 E=33 items=34 count=67/65
+   [p=101] round 0: expanded=36 E=33 items=34 count=67/65
+   [p=1381] round 0: expanded=35 E=34 items=31 count=65/65
+   [p=6781] round 0: expanded=33 E=32 items=34 count=66/65
+   [p=17981] round 0: expanded=37 E=34 items=32 count=66/65
+   [p=5] round 0: expanded=26 E=24 items=28 count=67/65
+n=65: ALL SCENARIOS CLOSED (18 scenarios + part B, 19s) -> theory/certs/cert_n65.json

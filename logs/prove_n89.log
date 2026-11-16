@@ -1,0 +1,34 @@
+   [G] round 0: expanded=3 E=2 items=3 count=7/89
+     ecm cof of 89 (170 digits): primes [8009862103557709] leftover digits [154]
+   [G] round 1: expanded=5 E=4 items=5 count=13/89
+     ecm cof of 89 (154 digits): primes [] leftover digits [154]
+     ecm cof of 179 (192 digits): primes [] leftover digits [192]
+     ecm cof of 47527 (410 digits): primes [1604802163043, 25514876926561201, 1021314492840449373010825114231967838104563728142065520240933977448666573896101471705188626772228406469233558167749148278588433402540199420363009591290764128984427620433428409979360718920600731273993685118155574420126631362989195018782112957721444531234631342641830883697325845387561255015048082034047007239999598219772194218426316938864328186715740584243855957337349049024087095443] leftover digits []
+   [G] round 2: expanded=31 E=30 items=33 count=90/89
+n=89: generic ok, count 90/89; special candidates: 15
+   [p=8009862103557709] round 0: expanded=31 E=27 items=36 count=93/89
+   [p=1069] round 0: expanded=31 E=28 items=34 count=89/89
+   [p=313993] round 0: expanded=31 E=28 items=34 count=90/89
+   [p=2551097] round 0: expanded=31 E=27 items=33 count=90/89
+   [p=29664769] round 0: expanded=31 E=27 items=32 count=90/89
+   [p=3917] round 0: expanded=31 E=28 items=33 count=89/89
+   [p=17787541] round 0: expanded=32 E=28 items=35 count=91/89
+   [p=4273] round 0: expanded=30 E=29 items=33 count=89/89
+   [p=181813829] round 0: expanded=32 E=27 items=34 count=90/89
+   [p=25514876926561201] round 0: expanded=19 E=18 items=19 count=53/89
+     ecm cof of 89 (154 digits): primes [] leftover digits [154]
+     ecm cof of 179 (192 digits): primes [] leftover digits [192]
+     ecm cof of 1069 (258 digits): primes [] leftover digits [258]
+     ecm cof of 3917 (305 digits): primes [316463698211] leftover digits [293]
+   [p=25514876926561201] round 1: expanded=21 E=20 items=21 count=59/89
+     ecm cof of 3917 (293 digits): primes [] leftover digits [293]
+     ecm cof of 3739 (307 digits): primes [2369257323023] leftover digits [294]
+   [p=25514876926561201] round 2: expanded=23 E=22 items=23 count=65/89
+     ecm cof of 3739 (294 digits): primes [72175122015299089] leftover digits [277]
+   [p=25514876926561201] round 3: expanded=30 E=29 items=35 count=90/89
+   [p=658878749] round 0: expanded=32 E=28 items=33 count=90/89
+   [p=475973] round 0: expanded=31 E=27 items=33 count=90/89
+   [p=205772629] round 0: expanded=32 E=26 items=34 count=90/89
+   [p=1239593] round 0: expanded=31 E=27 items=34 count=89/89
+   [p=19937] round 0: expanded=31 E=28 items=33 count=89/89
+n=89: ALL SCENARIOS CLOSED (16 scenarios, 129s) -> theory/certs/cert_n89.json

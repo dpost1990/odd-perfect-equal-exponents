@@ -1,0 +1,33 @@
+{
+ "cert_n19.json": {
+  "ok": true,
+  "n": 19,
+  "r": 19,
+  "need": 19,
+  "G": 20,
+  "scenarios": 6,
+  "specials_needed": 5,
+  "min_count": 19
+ },
+ "cert_n3.json": {
+  "ok": true,
+  "n": 3,
+  "r": 3,
+  "need": 3,
+  "G": 3,
+  "scenarios": 4,
+  "specials_needed": 3,
+  "min_count": 3
+ },
+ "cert_n65.json": {
+  "ok": true,
+  "partB": 67,
+  "n": 65,
+  "r": 5,
+  "need": 65,
+  "G": 65,
+  "scenarios": 18,
+  "specials_needed": 17,
+  "min_count": 65
+ }
+}

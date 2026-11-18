@@ -1,6 +1,6 @@
 # β = 9: no odd perfect number N = p^α · M^18 (M squarefree)
 
-This is a human-readable version of certificate `certs/cert_n19.json`. The referee (review-theory) wrote it out and checked it independently.
+This is a human-readable version of certificate `certs/cert_n19.json`. It was written out from the certificate, and every number in it was checked with the second, independently written checker `referee/rcheck.py`.
 - Every divisibility below was recomputed by `rcheck.py`, which shares no code with the author's `verify.py`.
 - Every prime used as an expansion base was proven prime by PARI/GP `isprime` (≥ 2^64) or by BPSW (< 2^64), after a BPSW plus sympy screen.
 - Every "composite, not a perfect power" claim was checked by both gmpy2 and PARI (`ispseudoprime = 0`, `ispower = 0`).

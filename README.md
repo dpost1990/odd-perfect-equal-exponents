@@ -78,7 +78,7 @@ There are two independent checkers. The second was written without reading the f
 - Result: 107 of 107 certificates VERIFIED, in `logs/verify_final_a.out` and `logs/verify_final_b.out`.
 - `tamper_test.py`: 16 tampered certificates, all rejected.
 
-**Checker 2: `referee/rcheck.py`** (independent referee, gmpy2).
+**Checker 2: `referee/rcheck.py`** (gmpy2). It was written separately, without reading `verify.py`. "Referee" here means a second program, not a human referee.
 - Result: 107 of 107 accepted, in `referee/runA.log`, `referee/runB.log` and `referee/rcheck_*.json`.
 - `referee/tamper.py`: 12 tampered certificates plus a dropped part, all rejected.
 
